@@ -1,0 +1,9 @@
+{
+    "name": "LetThereBeLight",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Client-side spotlight for Big Walk. Press F to turn on/off. C to cycle colors. F3 for menu.",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.755"
+    ]
+}
