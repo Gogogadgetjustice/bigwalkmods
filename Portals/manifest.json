@@ -1,0 +1,9 @@
+{
+    "name": "Portals",
+    "version_number": "1.2.0",
+    "website_url": "",
+    "description": "Give yourself personal fast-travel using six active portals.",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.755"
+    ]
+}
