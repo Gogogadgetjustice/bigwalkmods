@@ -1,1 +1,1 @@
-it's a bunch of scripts to some things
+it's a bunch of things that do things
