@@ -1,0 +1,321 @@
+[Info   :Big Skater] == LOCAL PLAYER == 'PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0' layer=13(VoiceTriggers) pos=(-226.40, 36.51, -499.02)
+[Info   :Big Skater] Physics.gravity=(0.00, -9.81, 0.00) fixedDt=0.033333335
+[Info   :Big Skater] layers: 0:Default, 1:TransparentFX, 2:Ignore Raycast, 4:Water, 5:UI, 6:Vegetation, 7:WorldUI, 8:Prop, 9:HideOnPlayerCamera, 10:World, 11:Player, 12:PostProcessing, 13:VoiceTriggers, 14:OnlyCollideWithPlayer, 15:PlayerSegment, 16:GhostPlayer, 17:Glass, 18:BlocksPlayerCast, 19:RadioDeadZone, 20:PlayerZone, 21:PropZone, 22:Audio, 23:PropHeld, 24:CameraTriggers, 25:PropWall, 26:CullPrevention, 27:WorldDynamic, 28:WorldTerrain, 29:WorldReservedB, 30:MaskUI, 31:TextChatUI
+[Info   :Big Skater] rb: mass=1 drag=0 angDrag=0.05 useGravity=True kinematic=False constraints=FreezeRotation interp=Interpolate cdm=Continuous vel=(0.00, 0.00, 0.00)
+[Info   :Big Skater] mover=ok ground=ok jumper=ok sprinter=ok croucher=ok platformer=ok faller=ok feet=ok collision=ok cameraMinder=ok poser=ok animator=ok playerNetworking=ok houseNetTransform=ok kernal=ok
+[Info   :Big Skater] bypass flags: update=False late=False fixed=False
+[Info   :Big Skater] groundTestPoint world=(-226.40, 36.51, -499.02) (root=(-226.40, 36.51, -499.02)) => feet offset y=0.000
+[Info   :Big Skater] camera world=(-226.40, 37.11, -499.02) euler=(5.20, 43.48, 0.00) localPosToRoot=(0.00, 0.60, 0.00)
+[Info   :Big Skater]   [game] .PlayerCharacter @ PlayerCharacter [steam user id]
+[Info   :Big Skater]   [game] Mirror.NetworkIdentity @ PlayerCharacter [steam user id]
+[Info   :Big Skater]   [game] Dissonance.Integrations.MirrorIgnorance.MirrorIgnorancePlayer @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .SeaShell @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .TrackedPeckState @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .TrackedPeckState @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .TrackedPeckState @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .PlayerNetworking @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .TrackedPeckState @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] LobbyNetworking.HouseNetworkTransform @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0
+[Info   :Big Skater]   [game] .GrabKernal @ PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal
+[Info   :Big Skater]   [game] .CameraCheatMover @ CameraPivot
+[Info   :Big Skater]   [game] .ListenerMover @ CameraPivot
+[Info   :Big Skater]   [game] .CameraQualityManager @ PlayerCamera
+[Info   :Big Skater]   [game] .PlayerCameraReferences @ PlayerCamera
+[Info   :Big Skater]   [game] UnityEngine.Rendering.Universal.UniversalAdditionalCameraData @ PlayerCamera
+[Info   :Big Skater]   [game] UnityEngine.Rendering.Universal.UniversalAdditionalLightData @ CameraLight
+[Info   :Big Skater]   [game] .HouseLight @ CameraLight
+[Info   :Big Skater]   [game] UnityEngine.Rendering.Universal.UniversalAdditionalCameraData @ PlayerUICamera
+[Info   :Big Skater]   [game] HouseCulling.CullingAgent @ CullingAgent
+[Info   :Big Skater]   [game] HouseHouse.Lighting.LightingAgent @ CullingAgent
+[Info   :Big Skater]   [game] .CameraTriggerController @ CullingAgent
+[Info   :Big Skater]   [game] .OcclusionCullingBlockerManager @ CullingAgent
+[Info   :Big Skater]   [game] .TextChatSource @ TextChatOutput
+[Info   :Big Skater]   [game] TMPro.TextMeshPro @ Text (TMP)
+[Info   :Big Skater]   [game] .PlayerPose @ carryingPose
+[Info   :Big Skater]   [game] .TextChatSource @ TextChatOutput Global
+[Info   :Big Skater]   [game] TMPro.TextMeshPro @ Text (TMP)
+[Info   :Big Skater]   [game] .PlayerAnimatables @ dummy
+[Info   :Big Skater]   [game] .PeckSwitch @ bottomSegmentCollider
+[Info   :Big Skater]   [game] .PeckEffectChangeLook @ bottomSegmentCollider
+[Info   :Big Skater]   [game] .CastableTarget @ bottomSegmentCollider
+[Info   :Big Skater]   [game] .PropertyBlockHelper @ nose_mesh_LOD0
+[Info   :Big Skater]   [game] .PeckSwitch @ headSegmentCollider
+[Info   :Big Skater]   [game] .PeckEffectChangeLook @ headSegmentCollider
+[Info   :Big Skater]   [game] .CastableTarget @ headSegmentCollider
+[Info   :Big Skater]   [game] .PropHome @ blindfoldPropHome
+[Info   :Big Skater]   [game] .PeckSwitch @ torsoSegmentCollider
+[Info   :Big Skater]   [game] .PeckEffectChangeLook @ torsoSegmentCollider
+[Info   :Big Skater]   [game] .CastableTarget @ torsoSegmentCollider
+[Info   :Big Skater]   [game] .PropHome @ backpackHome
+[Info   :Big Skater]   [game] HouseHouse.Medal.HomeMedal @ backpackHome
+[Info   :Big Skater]   [game] .PropHome @ holsterHome
+[Info   :Big Skater]   [game] HouseHouse.Medal.HomeMedal @ holsterHome
+[Info   :Big Skater]   [game] UnityEngine.Rendering.Universal.UniversalAdditionalCameraData @ blenderCamera
+[Info   :Big Skater]   [game] .LimbSpline @ leftArm
+[Info   :Big Skater]   [game] .LimbSpline @ rightArm
+[Info   :Big Skater]   [game] .LimbSpline @ leftLeg
+[Info   :Big Skater]   [game] .LimbSpline @ rightLeg
+[Info   :Big Skater]   [game] .LimbSpline @ localLeftArm
+[Info   :Big Skater]   [game] .LimbSpline @ localRightArm
+[Info   :Big Skater]   [game] .LimbSpline @ localLeftLeg
+[Info   :Big Skater]   [game] .LimbSpline @ localRightleg
+[Info   :Big Skater]   [game] .PeckEffectAudio @ paint head
+[Info   :Big Skater]   [game] .PeckEffectAudio @ paint torso
+[Info   :Big Skater]   [game] .PeckEffectAudio @ paint legs
+[Info   :Big Skater]   [game] .FootstepSound @ footstep audio
+[Info   :Big Skater]   [game] .FootstepSoundJobScheduler @ footstep audio
+[Info   :Big Skater]   [game] TheVisualEngine.TVEElement @ Motion Interaction Element
+[Info   :Big Skater]   [game] .PlayerZoner @ PlayerZonerTrigger
+[Info   :Big Skater]   [game] Dissonance.VoiceBroadcastTrigger @ VoiceColliderTrigger
+[Info   :Big Skater]   [game] .PeckSwitch @ PassStickyCurseSwitch
+[Info   :Big Skater]   [game] .PeckEffectStickyCurse @ PassStickyCurseSwitch
+[Info   :Big Skater] -- 407 components: Transform x211, PlayerCharacter x1, Rigidbody x3, NetworkIdentity x1, MirrorIgnorancePlayer x1, SphereCollider x8, SeaShell x1, TrackedPeckState x4, PlayerNetworking x1, HouseNetworkTransform x1, LODGroup x1, GrabKernal x1, CapsuleCollider x1, CameraCheatMover x1, ListenerMover x1, Camera x3, CameraQualityManager x1, PlayerCameraReferences x1, UniversalAdditionalCameraData x3, Light x1, UniversalAdditionalLightData x1, HouseLight x1, CullingAgent x1, LightingAgent x1, CameraTriggerController x1, OcclusionCullingBlockerManager x1, TextChatSource x2, RectTransform x2, MeshRenderer x51, TextMeshPro x2, PlayerPose x1, Animator x1, PlayerAnimatables x1, MeshFilter x49, PeckSwitch x4, PeckEffectChangeLook x3, CastableTarget x3, PropertyBlockHelper x1, ParticleSystem x6, ParticleSystemRenderer x6, PropHome x3, HomeMedal x2, LimbSpline x8, PeckEffectAudio x3, FootstepSound x1, FootstepSoundJobScheduler x1, TVEElement x1, SpriteRenderer x1, PlayerZoner x1, VoiceBroadcastTrigger x1, PeckEffectStickyCurse x1
+[Info   :Big Skater] -- 9 colliders --
+[Info   :Big Skater]   SphereCollider 'PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0' trigger=True layer=13 size=(100.00, 100.00, 100.00) mat=none
+[Info   :Big Skater]   CapsuleCollider 'playerCollider' trigger=False layer=11 size=(0.50, 1.50, 0.50) mat=PlayerPhysicsMaterial dynF=0 statF=0 bounce=0 fricCombine=Minimum
+[Info   :Big Skater]   SphereCollider 'playerCollider' trigger=False layer=11 size=(0.00, 0.00, 0.00) mat=none
+[Info   :Big Skater]   SphereCollider 'CullingAgent' trigger=True layer=24 size=(0.02, 0.02, 0.02) mat=none
+[Info   :Big Skater]   SphereCollider 'bottomSegmentCollider' trigger=False layer=15 size=(0.46, 0.46, 0.46) mat=none
+[Info   :Big Skater]   SphereCollider 'headSegmentCollider' trigger=False layer=15 size=(0.32, 0.32, 0.32) mat=none
+[Info   :Big Skater]   SphereCollider 'torsoSegmentCollider' trigger=False layer=15 size=(0.25, 0.25, 0.25) mat=none
+[Info   :Big Skater]   SphereCollider 'PlayerZonerTrigger' trigger=True layer=20 size=(0.40, 0.40, 0.40) mat=none
+[Info   :Big Skater]   SphereCollider 'VoiceColliderTrigger' trigger=True layer=13 size=(4.00, 4.00, 4.00) mat=none
+[Info   :Big Skater] [Probe] 11 colliders below (-226.40, 37.51, -499.02):
+[Info   :Big Skater] [Hoverboard] ignoring layer 4 'Water' (looks like water)
+[Info   :Big Skater]   d=5.25 'Spawn_Floor_Ground' layer=10(World) tag=Untagged trigger=False inMask=True
+[Info   :Big Skater]   d=1.75 'Archway Colliders' layer=10(World) tag=Untagged trigger=False inMask=True
+[Info   :Big Skater]   d=1.75 'Spawn_Floor_lvl1' layer=10(World) tag=Untagged trigger=False inMask=True
+[Info   :Big Skater]   d=38.31 'FloatFloorCollider' layer=10(World) tag=WaterFloor trigger=False inMask=True
+[Info   :Big Skater]   d=0.83 'bottomSegmentCollider' layer=15(PlayerSegment) tag=Untagged trigger=False inMask=False
+[Info   :Big Skater]   d=0.58 'torsoSegmentCollider' layer=15(PlayerSegment) tag=Untagged trigger=False inMask=False
+[Info   :Big Skater]   d=0.27 'headSegmentCollider' layer=15(PlayerSegment) tag=Untagged trigger=False inMask=False
+[Info   :Big Skater]   d=0.25 'playerCollider' layer=11(Player) tag=Untagged trigger=False inMask=False
+[Info   :Big Skater]   d=0.80 'PlayerZonerTrigger' layer=20(PlayerZone) tag=Untagged trigger=True inMask=False
+[Info   :Big Skater]   d=0.39 'CullingAgent' layer=24(CameraTriggers) tag=Untagged trigger=True inMask=False
+[Info   :Big Skater]   d=0.29 'audio trigger collider' layer=22(Audio) tag=AudioListener trigger=True inMask=True
+[Info   :Big Skater] bypass step 1: update=True fixed=False late=False  (step 0 = all off)
+
+[Info   :Big Skater] === ThirdPerson dump ===
+[Info   :Big Skater] cam=PlayerCamera pivot=CameraPivot camLocal=(0.00, 0.00, 0.00) collideMode=-1 mask=0
+[Info   :Big Skater] PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 layer=13
+[Info   :Big Skater]   PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal layer=11
+[Info   :Big Skater]     playerCollider layer=11
+[Info   :Big Skater]     groundTestPoint layer=11
+[Info   :Big Skater]     crouchTranslator layer=11
+[Info   :Big Skater]       CameraHeightOffset layer=11
+[Info   :Big Skater]         CameraUprighter layer=11
+[Info   :Big Skater]           CameraPivot layer=11
+[Info   :Big Skater]             localRightArmOrigin layer=11
+[Info   :Big Skater]             localLeftArmOrigin layer=11
+[Info   :Big Skater]             reachCastOriginPointLeft layer=11
+[Info   :Big Skater]             reachCastOriginPointRight layer=11
+[Info   :Big Skater]             PlayerCamera layer=11
+[Info   :Big Skater]               CameraLight layer=11
+[Info   :Big Skater]               PlayerUICamera layer=11
+[Info   :Big Skater]               CullingAgent layer=24
+[Info   :Big Skater]           screenSpaceArmsPivotLocal layer=11
+[Info   :Big Skater]           screenSpaceArmsPivotRemote layer=11
+[Info   :Big Skater]         holdHighGuide layer=11
+[Info   :Big Skater]         grasperHand layer=11
+[Info   :Big Skater]         grasperGuide layer=11
+[Info   :Big Skater]         reachCastOriginAirplaneLeft layer=11
+[Info   :Big Skater]         reachCastOriginAirplaneRight layer=11
+[Info   :Big Skater]         testingGrasper layer=11
+[Info   :Big Skater]         TextChatOutput layer=11
+[Info   :Big Skater]           DampedTransform layer=11
+[Info   :Big Skater]             Text (TMP) renderer.enabled=True layer=31
+[Info   :Big Skater]       carryingPose layer=11
+[Info   :Big Skater]       BackpackTextChatAim layer=11
+[Info   :Big Skater]       HolsterTextChatAim layer=11
+[Info   :Big Skater]       TextChatOutput Global layer=11
+[Info   :Big Skater]         DampedTransform layer=11
+[Info   :Big Skater]           Text (TMP) renderer.enabled=True layer=31
+[Info   :Big Skater]     dummy layer=11
+[Info   :Big Skater]       Armature layer=11
+[Info   :Big Skater]         bob_Offset_bone layer=0
+[Info   :Big Skater]           bob_Offset_bone_end layer=0
+[Info   :Big Skater]         elbow_Pole_bone_L layer=11
+[Info   :Big Skater]           elbow_Pole_bone_L_end layer=11
+[Info   :Big Skater]         elbow_Pole_bone_R layer=11
+[Info   :Big Skater]           elbow_Pole_bone_R_end layer=11
+[Info   :Big Skater]         foot_Target_bone_L layer=11
+[Info   :Big Skater]           SH_foot_bone_L layer=11
+[Info   :Big Skater]             left_foot_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]               foot_mesh_LOD0 left renderer.enabled=True layer=11
+[Info   :Big Skater]               foot_mesh_LOD1 left renderer.enabled=True layer=11
+[Info   :Big Skater]               left_foot_empty layer=11
+[Info   :Big Skater]               pose_left_grip layer=11
+[Info   :Big Skater]             SH_foot_bone_L_end layer=11
+[Info   :Big Skater]         foot_Target_bone_R layer=11
+[Info   :Big Skater]           SH_foot_bone_R layer=11
+[Info   :Big Skater]             right_foot_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]               foot_mesh_LOD0 right renderer.enabled=True layer=11
+[Info   :Big Skater]               foot_mesh_LOD1 right renderer.enabled=True layer=11
+[Info   :Big Skater]               right_foot_empty layer=11
+[Info   :Big Skater]               pose_right_grip layer=11
+[Info   :Big Skater]             SH_foot_bone_R_end layer=11
+[Info   :Big Skater]         hand_Target_bone_L layer=11
+[Info   :Big Skater]           hand_Target_bone_L_end layer=11
+[Info   :Big Skater]         hand_Target_bone_R layer=11
+[Info   :Big Skater]           hand_Target_bone_R_end layer=11
+[Info   :Big Skater]         knee_Pole_bone_L layer=11
+[Info   :Big Skater]           knee_Pole_bone_L_end layer=11
+[Info   :Big Skater]         knee_Pole_bone_R layer=11
+[Info   :Big Skater]           knee_Pole_bone_R_end layer=11
+[Info   :Big Skater]         pelvis_bone layer=11
+[Info   :Big Skater]           arm_upright_bone layer=11
+[Info   :Big Skater]             SH_arm_upper_bone_L layer=11
+[Info   :Big Skater]               arm_lower_bone_L layer=11
+[Info   :Big Skater]                 SH_hand_bone_L layer=11
+[Info   :Big Skater]                   left_hand_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]                     BodyBall_LOD0 renderer.enabled=True layer=11
+[Info   :Big Skater]                     BodyBall_LOD1 renderer.enabled=True layer=11
+[Info   :Big Skater]                     left_hand_empty layer=11
+[Info   :Big Skater]                   SH_hand_bone_L_end layer=11
+[Info   :Big Skater]               left_shoulder_empty layer=0
+[Info   :Big Skater]             SH_arm_upper_bone_R layer=11
+[Info   :Big Skater]               arm_lower_bone_R layer=11
+[Info   :Big Skater]                 SH_hand_bone_R layer=11
+[Info   :Big Skater]                   right_hand_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]                     BodyBall_LOD0 renderer.enabled=True layer=11
+[Info   :Big Skater]                     BodyBall_LOD1 renderer.enabled=True layer=11
+[Info   :Big Skater]                     right_hand_empty layer=11
+[Info   :Big Skater]                   SH_hand_bone_R_end layer=11
+[Info   :Big Skater]               right_shoulder_empty layer=0
+[Info   :Big Skater]             SH_elbow_bone_L layer=11
+[Info   :Big Skater]               left_elbow_empty layer=11
+[Info   :Big Skater]               SH_elbow_bone_L_end layer=11
+[Info   :Big Skater]             SH_elbow_bone_R layer=11
+[Info   :Big Skater]               right_elbow_empty layer=11
+[Info   :Big Skater]               SH_elbow_bone_R_end layer=11
+[Info   :Big Skater]             SHL_elbow_bone_L layer=11
+[Info   :Big Skater]               SHL_elbow_bone_L_end layer=11
+[Info   :Big Skater]             SHL_elbow_bone_R layer=11
+[Info   :Big Skater]               SHL_elbow_bone_R_end layer=11
+[Info   :Big Skater]             SHL_hand_bone_L layer=11
+[Info   :Big Skater]               SHL_hand_bone_L_end layer=11
+[Info   :Big Skater]               BodyBall_LOD0 local renderer.enabled=True layer=11
+[Info   :Big Skater]               BodyBall_LOD1 local renderer.enabled=True layer=11
+[Info   :Big Skater]               local_left_hand_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]                 left_hand_empty layer=11
+[Info   :Big Skater]             SHL_hand_bone_R layer=11
+[Info   :Big Skater]               SHL_hand_bone_R_end layer=11
+[Info   :Big Skater]               BodyBall_LOD0 local renderer.enabled=True layer=11
+[Info   :Big Skater]               BodyBall_LOD1 local renderer.enabled=True layer=11
+[Info   :Big Skater]               local_right_hand_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]                 right_hand_empty layer=11
+[Info   :Big Skater]           bottom_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]             BodyBall_LOD0 - bottom renderer.enabled=True layer=11
+[Info   :Big Skater]             BodyBall_LOD1 - bottom renderer.enabled=True layer=11
+[Info   :Big Skater]             bottomSegmentCollider layer=15
+[Info   :Big Skater]             sittingCarryGripLeft layer=11
+[Info   :Big Skater]             sittingCarryGripRight layer=11
+[Info   :Big Skater]           chest_bone layer=11
+[Info   :Big Skater]             head_upright_bone layer=11
+[Info   :Big Skater]               head_bone layer=11
+[Info   :Big Skater]                 head_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]                   head_mesh_LOD0 renderer.enabled=True layer=11
+[Info   :Big Skater]                   head_mesh_LOD1 renderer.enabled=True layer=11
+[Info   :Big Skater]                   nose_mesh layer=11
+[Info   :Big Skater]                     noseScalingParent layer=11
+[Info   :Big Skater]                       nose_mesh_LOD0 renderer.enabled=True layer=11
+[Info   :Big Skater]                       nose_mesh_LOD1 renderer.enabled=True layer=11
+[Info   :Big Skater]                       animatingNose renderer.enabled=False layer=11
+[Info   :Big Skater]                   headSegmentCollider layer=15
+[Info   :Big Skater]                 nose_bone layer=0
+[Info   :Big Skater]                   nose_end_bone layer=0
+[Info   :Big Skater]                     nose_end_bone_end layer=0
+[Info   :Big Skater]                 HeadPuffParticle renderer.enabled=True layer=11
+[Info   :Big Skater]                 blindfoldPropHome layer=11
+[Info   :Big Skater]               SweatParticles renderer.enabled=True layer=11
+[Info   :Big Skater]               DazedParticles renderer.enabled=True layer=11
+[Info   :Big Skater]             torso_mesh renderer.enabled=True layer=11
+[Info   :Big Skater]               BodyBall_LOD0 - torso renderer.enabled=True layer=11
+[Info   :Big Skater]               BodyBall_LOD1 - torso renderer.enabled=True layer=11
+[Info   :Big Skater]               torsoSegmentCollider layer=15
+[Info   :Big Skater]             ChestPuffParticle renderer.enabled=True layer=11
+[Info   :Big Skater]             backpackHome layer=11
+[Info   :Big Skater]           hipBone_bone_L layer=11
+[Info   :Big Skater]             SH_leg_upper_bone_L layer=11
+[Info   :Big Skater]               left_hip_empty layer=11
+[Info   :Big Skater]               leg_lower_bone_L layer=11
+[Info   :Big Skater]                 leg_lower_bone_L_end layer=11
+[Info   :Big Skater]           hipBone_bone_R layer=11
+[Info   :Big Skater]             SH_leg_upper_bone_R layer=11
+[Info   :Big Skater]               leg_lower_bone_R layer=11
+[Info   :Big Skater]                 leg_lower_bone_R_end layer=11
+[Info   :Big Skater]               right_hip_empty layer=11
+[Info   :Big Skater]           localBottom_mesh renderer.enabled=False layer=11
+[Info   :Big Skater]             SH_localLegUpper_L layer=11
+[Info   :Big Skater]               left_hip_empty layer=11
+[Info   :Big Skater]               leg_lower_bone_L layer=11
+[Info   :Big Skater]                 leg_lower_bone_L_end layer=11
+[Info   :Big Skater]             SH_localLegUpper_R layer=11
+[Info   :Big Skater]               leg_lower_bone_R layer=11
+[Info   :Big Skater]                 leg_lower_bone_R_end layer=11
+[Info   :Big Skater]               right_hip_empty layer=11
+[Info   :Big Skater]             sittingCarryGripLeftLocal layer=11
+[Info   :Big Skater]             sittingCarryGripRightLocal layer=11
+[Info   :Big Skater]             fakeHolsterBelt renderer.enabled=True layer=0
+[Info   :Big Skater]             BodyBall_LOD0 local bottom renderer.enabled=True layer=11
+[Info   :Big Skater]             BodyBall_LOD1 local bottom renderer.enabled=True layer=11
+[Info   :Big Skater]           PelvisPuffParticle renderer.enabled=True layer=11
+[Info   :Big Skater]           holsterHome layer=11
+[Info   :Big Skater]         root_bone layer=11
+[Info   :Big Skater]           root_bone_end layer=11
+[Info   :Big Skater]         SH_knee_bone_L layer=11
+[Info   :Big Skater]           left_knee_empty layer=11
+[Info   :Big Skater]           SH_knee_bone_L_end layer=11
+[Info   :Big Skater]         SH_knee_bone_R layer=11
+[Info   :Big Skater]           right_knee_empty layer=11
+[Info   :Big Skater]           SH_knee_bone_R_end layer=11
+[Info   :Big Skater]       blenderCamera layer=11
+[Info   :Big Skater]         LOCAL_left_shoulder_empty.001 layer=11
+[Info   :Big Skater]         LOCAL_right_shoulder_empty layer=11
+[Info   :Big Skater]       FootTurnerLeft layer=0
+[Info   :Big Skater]       FootTurnerRight layer=0
+[Info   :Big Skater]       left_arm_visualiser renderer.enabled=True layer=11
+[Info   :Big Skater]       left_leg_visualiser renderer.enabled=True layer=11
+[Info   :Big Skater]       LOCAL_left_arm_visualiser.001 renderer.enabled=True layer=11
+[Info   :Big Skater]       LOCAL_left_elbow_empty layer=11
+[Info   :Big Skater]       LOCAL_left_hand_empty layer=11
+[Info   :Big Skater]       LOCAL_right_arm_visualiser renderer.enabled=True layer=11
+[Info   :Big Skater]       LOCAL_right_elbow_empty layer=11
+[Info   :Big Skater]       LOCAL_right_hand_empty layer=11
+[Info   :Big Skater]       right_arm_visualiser renderer.enabled=True layer=11
+[Info   :Big Skater]       right_leg_visualiser renderer.enabled=True layer=11
+[Info   :Big Skater]     LimbSplines layer=11
+[Info   :Big Skater]       leftArm renderer.enabled=True layer=11
+[Info   :Big Skater]       rightArm renderer.enabled=True layer=11
+[Info   :Big Skater]       leftLeg renderer.enabled=True layer=11
+[Info   :Big Skater]       rightLeg renderer.enabled=True layer=11
+[Info   :Big Skater]       localPlayerLimbs layer=11
+[Info   :Big Skater]         localLeftArm renderer.enabled=True layer=11
+[Info   :Big Skater]         localRightArm renderer.enabled=True layer=11
+[Info   :Big Skater]         localLeftLeg renderer.enabled=True layer=11
+[Info   :Big Skater]         localRightleg renderer.enabled=True layer=11
+[Info   :Big Skater]     FeetParticles renderer.enabled=True layer=11
+[Info   :Big Skater]     audioTransforms layer=11
+[Info   :Big Skater]       stretchTransform layer=11
+[Info   :Big Skater]     peckAudio layer=11
+[Info   :Big Skater]       paint head layer=11
+[Info   :Big Skater]       paint torso layer=11
+[Info   :Big Skater]       paint legs layer=11
+[Info   :Big Skater]     footstep audio layer=13
+[Info   :Big Skater]     DanglenessOriginLeft layer=11
+[Info   :Big Skater]     DanglenessOriginRight layer=11
+[Info   :Big Skater]     Motion Interaction Element renderer.enabled=False layer=0
+[Info   :Big Skater]     groundFootTestPoint layer=11
+[Info   :Big Skater]   click_reticle renderer.enabled=True layer=7
+[Info   :Big Skater]   PlayerZonerTrigger layer=20
+[Info   :Big Skater]   VoiceColliderTrigger layer=13
+[Info   :Big Skater]   PassStickyCurseSwitch layer=13
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> ON axis=-0.50
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> off axis=0.00
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> ON axis=-2.00
+[Info   :Big Skater] input 'mouseLookY' (id 12) -> ON axis=1.00
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> off axis=0.00
+[Info   :Big Skater] input 'mouseLookY' (id 12) -> off axis=0.00
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> ON axis=-57.00
+[Info   :Big Skater] input 'mouseLookY' (id 12) -> ON axis=10.50
+[Info   :Big Skater] input 'mouseLookX' (id 11) -> off axis=0.00
