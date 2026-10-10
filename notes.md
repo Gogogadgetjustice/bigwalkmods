@@ -4878,3 +4878,15 @@ househouse/laser
 
 [househouse/laser] x1
     laser
+
+
+
+
+
+Big Walk’s own look is househouse/VertexColors. It’s used by about 2,100 materials, including one called OceanTerrainDepthOccluder. Cloning an hhVertexColors material and painting vertex colors gives terrain that matches the game and shares its fog and lighting.
+URP/Lit is the fallback. It ignores vertex colors, so it would render flat. Only 11 materials use it, so it isn’t what the game’s world uses.
+
+
+
+
+
