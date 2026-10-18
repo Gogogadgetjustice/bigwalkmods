@@ -1,0 +1,58 @@
+PlayerProbe v2  10/18/2026 12:12:32 AM
+Camera.main: PlayerCamera  pos (-242.30, 37.61, -484.67)
+Player root: PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0  pos (-242.30, 37.01, -484.67)  layer 13
+
+=== COLLIDERS BELOW PLAYER (ray down 200 m, all layers, triggers ignored) ===
+hit count: 8
+  dist 1.75  LandmarksNonChallenge/SpawnCourtyardandHubPlatform/Positioner/SpawnRoom/spawnroom  layer 10 (World)  spawnroom (UnityEngine.MeshCollider)
+  dist 2.25  LandmarksNonChallenge/SpawnCourtyardandHubPlatform/Positioner/SpawnBuilding/Archway Colliders  layer 10 (World)  Archway Colliders (UnityEngine.BoxCollider)
+  dist 38.81  Ocean/FloatFloorCollider  layer 10 (World)  FloatFloorCollider (UnityEngine.BoxCollider)
+  dist 1.75  LandmarksNonChallenge/SpawnCourtyardandHubPlatform/Positioner/SpawnRoom/spawnroom  layer 10 (World)  spawnroom (UnityEngine.BoxCollider)
+  dist 0.30  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/chest_bone/head_upright_bone/head_bone/head_mesh/headSegmentCollider  layer 15 (PlayerSegment)  headSegmentCollider (UnityEngine.SphereCollider)
+  dist 0.61  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/chest_bone/torso_mesh/torsoSegmentCollider  layer 15 (PlayerSegment)  torsoSegmentCollider (UnityEngine.SphereCollider)
+  dist 0.25  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/playerCollider  layer 11 (Player)  playerCollider (UnityEngine.CapsuleCollider)
+  dist 0.86  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/bottom_mesh/bottomSegmentCollider  layer 15 (PlayerSegment)  bottomSegmentCollider (UnityEngine.SphereCollider)
+
+=== LAYERS: collides with player layers 11 / 13? ===
+  0  Default   11: ignore   13: ignore
+  1  TransparentFX   11: ignore   13: ignore
+  2  Ignore Raycast   11: ignore   13: ignore
+  4  Water   11: ignore   13: ignore
+  5  UI   11: ignore   13: ignore
+  6  Vegetation   11: ignore   13: ignore
+  7  WorldUI   11: ignore   13: ignore
+  8  Prop   11: ignore   13: ignore
+  9  HideOnPlayerCamera   11: ignore   13: ignore
+  10  World   11: ignore   13: ignore
+  11  Player   11: ignore   13: ignore
+  12  PostProcessing   11: ignore   13: ignore
+  13  VoiceTriggers   11: ignore   13: ignore
+  14  OnlyCollideWithPlayer   11: ignore   13: ignore
+  15  PlayerSegment   11: ignore   13: ignore
+  16  GhostPlayer   11: ignore   13: ignore
+  17  Glass   11: ignore   13: ignore
+  18  BlocksPlayerCast   11: ignore   13: ignore
+  19  RadioDeadZone   11: ignore   13: ignore
+  20  PlayerZone   11: ignore   13: ignore
+  21  PropZone   11: ignore   13: ignore
+  22  Audio   11: ignore   13: ignore
+  23  PropHeld   11: ignore   13: ignore
+  24  CameraTriggers   11: ignore   13: ignore
+  25  PropWall   11: ignore   13: ignore
+  26  CullPrevention   11: ignore   13: ignore
+  27  WorldDynamic   11: ignore   13: ignore
+  28  WorldTerrain   11: ignore   13: ignore
+  29  WorldReservedB   11: ignore   13: ignore
+  30  MaskUI   11: ignore   13: ignore
+  31  TextChatUI   11: ignore   13: ignore
+
+=== PLAYER COLLIDERS ===
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0  layer 13  trigger=True  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/playerCollider  layer 11  trigger=False  playerCollider (UnityEngine.CapsuleCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/playerCollider  layer 11  trigger=False  playerCollider (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/crouchTranslator/CameraHeightOffset/CameraUprighter/CameraPivot/PlayerCamera/CullingAgent  layer 24  trigger=True  CullingAgent (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/bottom_mesh/bottomSegmentCollider  layer 15  trigger=False  bottomSegmentCollider (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/chest_bone/head_upright_bone/head_bone/head_mesh/headSegmentCollider  layer 15  trigger=False  headSegmentCollider (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0 kernal/dummy/Armature/pelvis_bone/chest_bone/torso_mesh/torsoSegmentCollider  layer 15  trigger=False  torsoSegmentCollider (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/PlayerZonerTrigger  layer 20  trigger=True  PlayerZonerTrigger (UnityEngine.SphereCollider)
+  PlayerCharacter 0002ba021cc14a179d9f8061fcc8c487-0/VoiceColliderTrigger  layer 13  trigger=True  VoiceColliderTrigger (UnityEngine.SphereCollider)
