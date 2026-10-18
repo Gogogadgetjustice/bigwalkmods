@@ -1,0 +1,1296 @@
+VegetationProbe  10/18/2026 12:12:34 AM
+
+=== A) TERRAIN PROTOTYPES ===
+active terrains: 4
+
+Terrain Terrain_North  size (1024.00, 1047.00, 1024.00)  trees 16491  treeProtos 78  detailProtos 107
+  tree[0]
+    prefab BrownStringybark_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Hero_LOD0  mesh BrownStringybark_Hero_LOD0 7700 (TVE Model) (5492v)  mats BrownStringybark_Hero_LOD0 7702 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Hero_Impostor (8v)  mats BrownStringybark_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[1]
+    prefab BrownStringybark_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_LOD0  mesh BrownStringybark_Dead_LOD0 5402 (TVE Model) (815v)  mats BrownStringybark_Dead_LOD0 5400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Impostor (8v)  mats BrownStringybark_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[2]
+    prefab BrownStringybark_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Short_LOD0  mesh BrownStringybark_Short_LOD0 4302 (TVE Model) (3552v)  mats BrownStringybark_Short_LOD0 4300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Short_Impostor (8v)  mats BrownStringybark_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[3]
+    prefab SheoakDrooping  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakDrooping_LOD0  mesh SheoakDrooping_LOD0 4201 (TVE Model) (3401v)  mats SheoakDrooping_LOD0 4200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakDrooping_Impostor (8v)  mats SheoakDrooping_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[4]
+    prefab SheoakDrooping_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakDrooping_Short_LOD0  mesh SheoakDrooping_Short_LOD0 0201 (TVE Model) (2626v)  mats SheoakDrooping_Short_LOD0 0200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakDrooping_Short_Impostor (8v)  mats SheoakDrooping_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[5]
+    prefab BanksiaCoast  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_LOD0  mesh BanksiaCoast_LOD0 DE02 (TVE Model) (3050v)  mats BanksiaCoast_LOD0 DE00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Impostor (8v)  mats BanksiaCoast_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[6]
+    prefab SouthernSassafrass  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        SouthernSassafrass_LOD0  mesh SouthernSassafrass_LOD0 3602 (TVE Model) (2769v)  mats SouthernSassafrass_LOD0 3600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SouthernSassafrass_Impostor (8v)  mats SouthernSassafrass_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[7]
+    prefab MyrtleBeech  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        MyrtleBeech_LOD0  mesh MyrtleBeech_LOD0 4802 (TVE Model) (3053v)  mats MyrtleBeech_LOD0 4800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh MyrtleBeech_Impostor (8v)  mats MyrtleBeech_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[8]
+    prefab FernMan  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernMan_LOD0  mesh FernMan_LOD0 A402 (TVE Model) (1239v)  mats FernMan_LOD0 A400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernMan_Impostor (8v)  mats FernMan_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[9]
+    prefab FernKing  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernKing_LOD0  mesh FernKing_LOD0 9801 (TVE Model) (1212v)  mats FernKing_LOD0 9800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernKing_Impostor (8v)  mats FernKing_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[10]
+    prefab BrownStringybark_Feature  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Feature_LOD0  mesh BrownStringybark_Feature_LOD0 DC02 (TVE Model) (4817v)  mats BrownStringybark_Feature DC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Feature_Impostor (8v)  mats BrownStringybark_Feature_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[11]
+    prefab BrownStringybark_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Tall_LOD0  mesh BrownStringybark_Tall_LOD0 3802 (TVE Model) (2507v)  mats BrownStringybark_Tall_LOD0 3800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Tall_Impostor (8v)  mats BrownStringybark_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[12]
+    prefab BrownStringybark_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Bush_LOD0  mesh BrownStringybark_Bush_LOD0 5602 (TVE Model) (960v)  mats BrownStringybark_Bush 5600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Bush_Impostor (8v)  mats BrownStringybark_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[13]
+    prefab BrownStringybark  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_LOD0  mesh BrownStringybark_LOD0 3B01 (TVE Model) (3119v)  mats BrownStringybark_LOD0 3B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Impostor (8v)  mats BrownStringybark_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[14]
+    prefab BrownStringybark_Dead_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_Short_LOD0  mesh BrownStringybark_Dead_Short_LOD0 A401 (TVE Model) (829v)  mats BrownStringybark_Dead_Short A400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Short_Impostor (8v)  mats BrownStringybark_Dead_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[15]
+    prefab BushyNeedlewood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BushyNeedlewood_LOD0  mesh BushyNeedlewood_LOD0 9C01 (TVE Model) (2057v)  mats BushyNeedlewood_LOD0 9C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BushyNeedlewood_Impostor (8v)  mats BushyNeedlewood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[16]
+    prefab GrassTree  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        GrassTree_LOD0  mesh GrassTree_LOD0 1B02 (TVE Model) (1181v)  mats GrassTree_LOD0 1B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh GrassTree_Impostor (8v)  mats GrassTree_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[17]
+    prefab GrassTree_NoFlower  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        GrassTree_NoFlower_LOD0  mesh GrassTree_NoFlower_LOD0 1502 (TVE Model) (1042v)  mats GrassTree_NoFlower_LOD0 1500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh GrassTree_NoFlower_Impostor (8v)  mats GrassTree_NoFlower_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[18]
+    prefab GrassTree_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        GrassTree_Short_LOD0  mesh GrassTree_Short_LOD0 3101 (TVE Model) (905v)  mats GrassTree_Short_LOD0 3100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh GrassTree_Short_Impostor (8v)  mats GrassTree_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[19]
+    prefab GrassTree_Short_NoFlower  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        GrassTree_Short_NoFlower_LOD0  mesh GrassTree_Short_NoFlower_LOD0 B402 (TVE Model) (742v)  mats GrassTree_Short_NoFlower B400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh GrassTree_Short_NoFlower_Impostor (8v)  mats GrassTree_Short_NoFlower_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[20]
+    prefab Litter_Log_Dry  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Dry_LOD0  mesh Litter_Log_Dry_LOD0 B201 (TVE Model) (740v)  mats Litter_Log_Dry_LOD0 B200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Dry_Impostor (8v)  mats Litter_Log_Dry_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[21]
+    prefab Litter_Log_Dry_Small  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Dry_Small_LOD0  mesh Litter_Log_Dry_Small_LOD0 6A01 (TVE Model) (974v)  mats Litter_Log_Dry_Small 6A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Dry_Small_Impostor (8v)  mats Litter_Log_Dry_Small_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[22]
+    prefab TeatreeCoast_Dead_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Dead_Tall_LOD0  mesh TeatreeCoast_Dead_Tall_LOD0 9101 (TVE Model) (740v)  mats TeatreeCoast_Dead_Tall_LOD0 9100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Dead_Tall_Impostor (8v)  mats TeatreeCoast_Dead_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[23]
+    prefab HazelPomaderris  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        HazelPomaderris_LOD0  mesh HazelPomaderris_LOD0 8401 (TVE Model) (1682v)  mats HazelPomaderris_LOD0 8400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh HazelPomaderris_Impostor (8v)  mats HazelPomaderris_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[24]
+    prefab BrownStringybark_Dead_Skinny  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_Skinny_LOD0  mesh BrownStringybark_Dead_Skinny_LOD0 3600 (TVE Model) (992v)  mats BrownStringybark_Dead_Skinny 3601 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Skinny_Impostor (8v)  mats BrownStringybark_Dead_Skinny_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[25]
+    prefab PricklyMoses  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        PricklyMoses_LOD0  mesh PricklyMoses_LOD0 D101 (TVE Model) (2109v)  mats PricklyMoses_LOD0 D100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh PricklyMoses_Impostor (8v)  mats PricklyMoses_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[26]
+    prefab Messmate_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Hero_LOD0  mesh Messmate_Hero_LOD0 6401 (TVE Model) (7260v)  mats Messmate_Hero_LOD0 6400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Hero_Impostor (8v)  mats Messmate_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[27]
+    prefab Messmate_OpenForest_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_OpenForest_Short_LOD0  mesh Messmate_OpenForest_Short_LOD0 B302 (TVE Model) (3905v)  mats Messmate_OpenForest_Short B300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_OpenForest_Short_Impostor (8v)  mats Messmate_OpenForest_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[28]
+    prefab Messmate_OpenForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_OpenForest_LOD0  mesh Messmate_OpenForest_LOD0 9B02 (TVE Model) (3437v)  mats Messmate_OpenForest_LOD0 9B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_OpenForest_Impostor (8v)  mats Messmate_OpenForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[29]
+    prefab Messmate_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_LOD0  mesh Messmate_Dead_LOD0 4402 (TVE Model) (821v)  mats Messmate_Dead_LOD0 4400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_Impostor (8v)  mats Messmate_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[30]
+    prefab Messmate_Dead_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_Short_LOD0  mesh Messmate_Dead_Short_LOD0 0502 (TVE Model) (825v)  mats Messmate_Dead_Short 0500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_Short_Impostor (8v)  mats Messmate_Dead_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[31]
+    prefab AustralianBlackthorn  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianBlackthorn_LOD0  mesh AustralianBlackthorn_LOD0 A701 (TVE Model) (1283v)  mats AustralianBlackthorn_LOD0 A700 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianBlackthorn_Impostor (8v)  mats AustralianBlackthorn_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[32]
+    prefab AustralianBlackthorn_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianBlackthorn_Bush_LOD0  mesh AustralianBlackthorn_Bush_LOD0 7D02 (TVE Model) (1198v)  mats AustralianBlackthorn_Bush_LOD0 7D00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianBlackthorn_Bush_Impostor (8v)  mats AustralianBlackthorn_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[33]
+    prefab MyrtleBeech_Sunk  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        MyrtleBeech_Short_LOD0  mesh MyrtleBeech_Short_LOD0 0B01 (TVE Model) (1487v)  mats MyrtleBeech_Short_LOD0 0B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh MyrtleBeech_Short_Impostor (8v)  mats MyrtleBeech_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[34]
+    prefab TreeBroomHeath  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TreeBroomHeath_LOD0  mesh TreeBroomHeath_LOD0 6C01 (TVE Model) (1704v)  mats TreeBroomHeath_LOD0 6C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TreeBroomHeath_Impostor (8v)  mats TreeBroomHeath_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[35]
+    prefab Litter_Log_Wet  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Wet_LOD0  mesh Litter_Log_Wet_LOD0 AC02 (TVE Model) (994v)  mats Litter_Log_Wet_LOD0 AC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Wet_Impostor (8v)  mats Litter_Log_Wet_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[36]
+    prefab Litter_Log_Wet_Small  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Wet_Small_LOD0  mesh Litter_Log_Wet_Small_LOD0 0302 (TVE Model) (688v)  mats Litter_Log_Wet_Small 0300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Wet_Small_Impostor (8v)  mats Litter_Log_Wet_Small_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[37]
+    prefab Blackwood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Blackwood_LOD0  mesh Blackwood_LOD0 5A02 (TVE Model) (2218v)  mats Blackwood_LOD0 5A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Blackwood_Impostor (8v)  mats Blackwood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[38]
+    prefab FernRough  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernRough_LOD0  mesh FernRough_LOD0 9402 (TVE Model) (1191v)  mats FernRough_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernRough_Impostor (8v)  mats FernRough_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[39]
+    prefab FernMan_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernMan_Short_LOD0  mesh FernMan_Short_LOD0 F601 (TVE Model) (674v)  mats FernMan_Short_LOD0 F600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernMan_Short_Impostor (8v)  mats FernMan_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[40]
+    prefab Litter_Stump_Wet  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Stump_Wet_LOD0  mesh Litter_Stump_Wet_LOD0 DB01 (TVE Model) (423v)  mats Litter_Stump_Wet_LOD0 DB00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Stump_Wet_Impostor (8v)  mats Litter_Stump_Wet_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[41]
+    prefab LillyPilly_ForestTall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        LillyPilly_ForestTall_LOD0  mesh LillyPilly_ForestTall_LOD0 7801 (TVE Model) (2176v)  mats LillyPilly_ForestTall_LOD0 7800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_ForestTall_Impostor (8v)  mats LillyPilly_ForestTall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[42]
+    prefab LillyPilly  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        LillyPilly_LOD0  mesh LillyPilly_LOD0 5B01 (TVE Model) (2747v)  mats LillyPilly_LOD0 5B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_Impostor (8v)  mats LillyPilly_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[43]
+    prefab FernSlender  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        FernSlender_LOD0  mesh FernSlender_LOD0 4C01 (TVE Model) (1186v)  mats FernSlender_LOD0 4C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernSlender_Impostor (8v)  mats FernSlender_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[44]
+    prefab LillyPilly_ForestTall_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        LillyPilly_ForestTall_Dead_LOD0  mesh LillyPilly_ForestTall_Dead_LOD0 6D00 (TVE Model) (1094v)  mats LillyPilly_ForestTall_Dead 6D02 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_ForestTall_Dead_Impostor (8v)  mats LillyPilly_ForestTall_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[45]
+    prefab AustralianMulberry  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianMulberry_LOD0  mesh AustralianMulberry_LOD0 7202 (TVE Model) (937v)  mats AustralianMulberry_LOD0 7200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianMulberry_Impostor (8v)  mats AustralianMulberry_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[46]
+    prefab Messmate_ClosedForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_ClosedForest_LOD0  mesh Messmate_ClosedForest_LOD0 6202 (TVE Model) (2334v)  mats Messmate_ClosedForest_LOD0 6200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_ClosedForest_Impostor (8v)  mats Messmate_ClosedForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[47]
+    prefab Banyalla  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Banyalla_LOD0  mesh Banyalla_LOD0 AD02 (TVE Model) (1991v)  mats Banyalla_LOD0 AD00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Banyalla_Impostor (8v)  mats Banyalla_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[48]
+    prefab Messmate_Dead_ClosedForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_ClosedForest_LOD0  mesh Messmate_Dead_ClosedForest_LOD0 7602 (TVE Model) (602v)  mats Messmate_Dead_ClosedForest 7600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_ClosedForest_Impostor (8v)  mats Messmate_Dead_ClosedForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[49]
+    prefab Stinkwood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Stinkwood_LOD0  mesh Stinkwood_LOD0 6E02 (TVE Model) (2043v)  mats Stinkwood_LOD0 6E00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Stinkwood_Impostor (8v)  mats Stinkwood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[50]
+    prefab BlanketLeaf  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BlanketLeaf_LOD0  mesh BlanketLeaf_LOD0 CC02 (TVE Model) (1889v)  mats BlanketLeaf_LOD0 CC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BlanketLeaf_Impostor (8v)  mats BlanketLeaf_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[51]
+    prefab HazelPomaderris_Thicket  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        HazelPomaderris_Thicket_LOD0  mesh HazelPomaderris_Thicket_LOD0 8402 (TVE Model) (2445v)  mats HazelPomaderris_Thicket 8400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh HazelPomaderris_Thicket_Impostor (8v)  mats HazelPomaderris_Thicket_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[52]
+    prefab TeatreeCoast_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Hero_LOD0  mesh TeatreeCoast_Hero_LOD0 9401 (TVE Model) (2387v)  mats TeatreeCoast_Hero_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Hero_Impostor (8v)  mats TeatreeCoast_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[53]
+    prefab TeatreeCoast  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_LOD0  mesh TeatreeCoast_LOD0 F301 (TVE Model) (3074v)  mats TeatreeCoast_LOD0 F300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Impostor (8v)  mats TeatreeCoast_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[54]
+    prefab KangarooApple  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        KangarooApple_LOD0  mesh KangarooApple_LOD0 8B01 (TVE Model) (2405v)  mats KangarooApple_LOD0 8B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh KangarooApple_Impostor (8v)  mats KangarooApple_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[55]
+    prefab CoastBeardHeath_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        CoastBeardHeath_Tall_LOD0  mesh CoastBeardHeath_Tall_LOD0 1101 (TVE Model) (2081v)  mats CoastBeardHeath_Tall_LOD0 1100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh CoastBeardHeath_Impostor (8v)  mats CoastBeardHeath_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[56]
+    prefab TeatreeCoast_Solo  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Solo_LOD0  mesh TeatreeCoast_Solo_LOD0 5201 (TVE Model) (993v)  mats TeatreeCoast_Solo_LOD0 5200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Solo_Impostor (8v)  mats TeatreeCoast_Solo_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[57]
+    prefab TeatreeCoast_Wall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Wall_LOD0  mesh TeatreeCoast_Wall_LOD0 D801 (TVE Model) (376v)  mats TeatreeCoast_Wall D800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Wall_Impostor (8v)  mats TeatreeCoast_Wall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[58]
+    prefab Paperbark_Thicket  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Paperbark_Thicket_LOD0  mesh Paperbark_Thicket_LOD0 1401 (TVE Model) (3303v)  mats Paperbark_Thicket_LOD0 1400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Thicket_Impostor (8v)  mats Paperbark_Thicket_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[59]
+    prefab Paperbark_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Paperbark_Bush_LOD0  mesh Paperbark_Bush_LOD0 0F01 (TVE Model) (1117v)  mats Paperbark_Bush_LOD0 0F00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Bush_Impostor (8v)  mats Paperbark_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[60]
+    prefab TreeEverlasting  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TreeEverlasting_LOD0  mesh TreeEverlasting_LOD0 BC01 (TVE Model) (3268v)  mats TreeEverlasting_LOD0 BC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TreeEverlasting_Impostor (8v)  mats TreeEverlasting_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[61]
+    prefab Paperbark  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Paperbark_LOD0  mesh Paperbark_LOD0 0602 (TVE Model) (1883v)  mats Paperbark_LOD0 0600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Impostor (8v)  mats Paperbark_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[62]
+    prefab ButtonGrass  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        ButtonGrass_LOD0  mesh ButtonGrass_LOD0 D602 (TVE Model) (898v)  mats ButtonGrass_LOD0 D600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh ButtonGrass_Impostor (8v)  mats ButtonGrass_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[63]
+    prefab CoastSaltbush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CoastSaltBush_LOD0  mesh CoastSaltBush_LOD0 0C01 (TVE Model) (1766v)  mats CoastSaltBush_LOD0 0C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CoastSaltbush_Impostor (8v)  mats CoastSaltbush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[64]
+    prefab SeaberrySaltbush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        SeaberrySaltbush_LOD0  mesh SeaberrySaltbush_LOD0 2500 (TVE Model) (2260v)  mats SeaberrySaltbush_LOD0 2501 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh SeaberrySaltbush_Impostor (8v)  mats SeaberrySaltbush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[65]
+    prefab SaltMarshRush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        SaltMarshRush_LOD0  mesh SaltMarshRush_LOD0 1001 (TVE Model) (2981v)  mats SaltMarshRush_LOD0 1000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh SaltMarshRush_Impostor (8v)  mats SaltMarshRush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[66]
+    prefab BanksiaCoast_Senior  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Senior_LOD0  mesh BanksiaCoast_Senior_LOD0 7002 (TVE Model) (1555v)  mats BanksiaCoast_Senior 7000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Senior_Impostor (8v)  mats BanksiaCoast_Senior_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[67]
+    prefab BanksiaCoast_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Dead_LOD0  mesh BanksiaCoast_Dead_LOD0 4202 (TVE Model) (1120v)  mats BanksiaCoast_Dead_LOD0 4200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Dead_Impostor (8v)  mats BanksiaCoast_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[68]
+    prefab BanksiaCoast_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Tall_LOD0  mesh BanksiaCoast_Tall_LOD0 9401 (TVE Model) (1957v)  mats BanksiaCoast_Tall_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Banksia_Tall_Impostor (8v)  mats Banksia_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[69]
+    prefab BanksiaCoast_Juvenile  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Juvenile_LOD0  mesh BanksiaCoast_Juvenile_LOD0 0001 (TVE Model) (474v)  mats BanksiaCoast_Juvenile_LOD0 0000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Juvenile_Impostor (8v)  mats BanksiaCoast_Juvenile_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[70]
+    prefab SheoakSwamp  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakSwamp_LOD0  mesh SheoakSwamp_LOD0 4401 (TVE Model) (661v)  mats SheoakSwamp_LOD0 4400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakSwamp_Impostor (8v)  mats SheoakSwamp_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[71]
+    prefab TeatreeCoast_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Dead_LOD0  mesh TeatreeCoast_Dead_LOD0 8A01 (TVE Model) (1354v)  mats TeatreeCoast_Dead_LOD0 8A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Dead_Impostor (8v)  mats TeatreeCoast_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[72]
+    prefab PovertyBush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        PovertyBush_LOD0  mesh PovertyBush_LOD0 6C01 (TVE Model) (2300v)  mats PovertyBush_LOD0 6C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh PovertyBush_Impostor (8v)  mats PovertyBush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[73]
+    prefab LemonBottlebrush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        LemonBottlebrush_LOD0  mesh LemonBottlebrush_LOD0 DA02 (TVE Model) (1980v)  mats LemonBottlebrush_LOD0 DA00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LemonBottlebrush_Impostor (8v)  mats LemonBottlebrush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[74]
+    prefab CorreaWhite_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CorreaWhite_Bush_LOD0  mesh CorreaWhite_Bush_LOD0 4501 (TVE Model) (1819v)  mats CorreaWhite_Bush_LOD0 4500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CorreaWhite_Bush_Impostor (8v)  mats CorreaWhite_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[75]
+    prefab CoastalWattle_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CoastalWattle_Bush_LOD0  mesh CoastalWattle_Bush_LOD0 0E01 (TVE Model) (2220v)  mats CoastalWattle_Bush_LOD0 0E00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CoastalWattle_Bush_Impostor (8v)  mats CoastalWattle_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[76]
+    prefab CommonBoobialla  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CommonBoobialla_LOD0  mesh CommonBoobialla_LOD0 C601 (TVE Model) (2010v)  mats CommonBoobialla_LOD0 C600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CommonBoobialla_Impostor (8v)  mats CommonBoobialla_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[77]
+    prefab TeatreeCoast_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        TeatreeCoast_Bush_LOD0  mesh TeatreeCoast_Bush_LOD0 C501 (TVE Model) (685v)  mats TeatreeCoast_Bush_LOD0 C500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh TeatreeCoast_Bush_Impostor (8v)  mats TeatreeCoast_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  detail[0]  mode VertexLit  usePrefab True  prefab SeaNymph_LOD0  tex -  w 0.8-1.8  h 0.8-1.2
+  detail[1]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1-1.2  h 1-1.2
+  detail[2]  mode VertexLit  usePrefab True  prefab DustyMiller_LOD0  tex -  w 0.8-1.5  h 0.6-1.1
+  detail[3]  mode VertexLit  usePrefab True  prefab AppleBerry_Bush_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[4]  mode VertexLit  usePrefab True  prefab SweetWattle_LOD0  tex -  w 0.5-1  h 0.5-0.65
+  detail[5]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[6]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Dry_LOD0  tex -  w 0.8-1.5  h 0.8-1
+  detail[7]  mode VertexLit  usePrefab True  prefab GrassTree_Short_NoFlower_LOD0  tex -  w 0.8-1  h 0.8-1
+  detail[8]  mode VertexLit  usePrefab True  prefab GrassKangaroo_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[9]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.6-1.2  h 0.6-1.2
+  detail[10]  mode VertexLit  usePrefab True  prefab TasselRopeRush_LOD0  tex -  w 1-2  h 0.8-0.8
+  detail[11]  mode VertexLit  usePrefab True  prefab BroomSpurge_LOD0  tex -  w 0.7-1  h 0.7-1
+  detail[12]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+  detail[13]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[14]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Bush_LOD0  tex -  w 0.8-0.9  h 0.8-0.9
+  detail[15]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Dead_LOD0  tex -  w 0.5-1  h 0.5-1
+  detail[16]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Dead_LOD0  tex -  w 0.5-1  h 0.5-1
+  detail[17]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+  detail[18]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1.2-1.2  h 1.4-1.5
+  detail[19]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 0.6-0.8  h 0.6-0.8
+  detail[20]  mode VertexLit  usePrefab True  prefab HazelPomaderris_Sapling_LOD0  tex -  w 0.6-1.2  h 0.5-0.9
+  detail[21]  mode VertexLit  usePrefab True  prefab Bracken_LOD0  tex -  w 0.5-1  h 0.5-1.2
+  detail[22]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[23]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[24]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[25]  mode VertexLit  usePrefab True  prefab CommonHeath_LOD0  tex -  w 0.8-0.9  h 0.8-0.9
+  detail[26]  mode VertexLit  usePrefab True  prefab BroomSpurge_LOD0  tex -  w 0.9-1.4  h 1-1.3
+  detail[27]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Dry_LOD0  tex -  w 0.8-1.5  h 0.8-1
+  detail[28]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[29]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[30]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[31]  mode VertexLit  usePrefab True  prefab MyrtleBeech_Roots_LOD0  tex -  w 0.3-0.6  h 0.3-0.5
+  detail[32]  mode VertexLit  usePrefab True  prefab DaisyBushSnowy_Bush_LOD0  tex -  w 0.8-1  h 0.6-0.8
+  detail[33]  mode VertexLit  usePrefab True  prefab FernHardWater_LOD0  tex -  w 0.9-1.3  h 1-1.5
+  detail[34]  mode VertexLit  usePrefab True  prefab Sedge_Cool_LOD0  tex -  w 1.2-1.2  h 1.4-1.5
+  detail[35]  mode VertexLit  usePrefab True  prefab MountainPepper_LOD0  tex -  w 0.6-1  h 0.6-1
+  detail[36]  mode VertexLit  usePrefab True  prefab TasmanianFlaxLily_LOD0  tex -  w 0.6-0.9  h 0.6-0.9
+  detail[37]  mode VertexLit  usePrefab True  prefab Litter_Branches_Wet_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[38]  mode VertexLit  usePrefab True  prefab ShadeNettle_LOD0  tex -  w 1-2  h 1-2
+  detail[39]  mode VertexLit  usePrefab True  prefab Litter_Fern_LOD0  tex -  w 0.6-1  h 0.6-1
+  detail[40]  mode VertexLit  usePrefab True  prefab FernRayWater_LOD0  tex -  w 0.8-1.5  h 1-1.8
+  detail[41]  mode VertexLit  usePrefab True  prefab FernKing_Short_LOD0  tex -  w 0.5-0.8  h 0.5-1.2
+  detail[42]  mode VertexLit  usePrefab True  prefab FernHardWater_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[43]  mode VertexLit  usePrefab True  prefab FernKing_Short_LOD0  tex -  w 0.5-0.8  h 0.5-1.2
+  detail[44]  mode VertexLit  usePrefab True  prefab Litter_Branches_Wet_LOD0  tex -  w 0.5-0.75  h 0.5-0.8
+  detail[45]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0_WarmRainforest  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[46]  mode VertexLit  usePrefab True  prefab FernRayWater_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[47]  mode VertexLit  usePrefab True  prefab FernFishboneWater_LOD0  tex -  w 0.9-1.2  h 1-1.1
+  detail[48]  mode VertexLit  usePrefab True  prefab FernFishboneWater_Small_LOD0  tex -  w 0.7-1  h 0.6-0.7
+  detail[49]  mode VertexLit  usePrefab True  prefab PricklyCurrantBush_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[50]  mode VertexLit  usePrefab True  prefab GrassForestWire_LOD0  tex -  w 0.5-1.2  h 0.5-0.8
+  detail[51]  mode VertexLit  usePrefab True  prefab NativeIvy_LOD0  tex -  w 1-1.5  h 1-1.5
+  detail[52]  mode VertexLit  usePrefab True  prefab HopGoodenia_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[53]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[54]  mode VertexLit  usePrefab True  prefab KidneyWeed_LOD0  tex -  w 1-2  h 1-2
+  detail[55]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[56]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Roots_LOD0  tex -  w 0.6-1.2  h 0.8-1
+  detail[57]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[58]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Juvenile_LOD0  tex -  w 0.5-1.2  h 0.5-0.9
+  detail[59]  mode VertexLit  usePrefab True  prefab SmallLeavedClematis_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[60]  mode VertexLit  usePrefab True  prefab CoastBeardHeath_LOD0  tex -  w 0.5-1  h 0.5-0.7
+  detail[61]  mode VertexLit  usePrefab True  prefab BlueTussockGrass_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[62]  mode VertexLit  usePrefab True  prefab CorreaWhite_Bush_LOD0  tex -  w 0.5-1.2  h 0.5-1
+  detail[63]  mode VertexLit  usePrefab True  prefab Paperbark_Roots_LOD0  tex -  w 0.6-1  h 0.5-0.9
+  detail[64]  mode VertexLit  usePrefab True  prefab RiverRose_LOD0  tex -  w 0.7-0.9  h 0.7-0.85
+  detail[65]  mode VertexLit  usePrefab True  prefab Paperbark_Juvenile_LOD0  tex -  w 0.6-1  h 0.6-0.8
+  detail[66]  mode VertexLit  usePrefab True  prefab CreepingBrookweed_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[67]  mode VertexLit  usePrefab True  prefab FernScramblingCoral_LOD0  tex -  w 1-1.2  h 1-1.6
+  detail[68]  mode VertexLit  usePrefab True  prefab Riverbank_Roots_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[69]  mode VertexLit  usePrefab True  prefab CommonReed_Dry_LOD0  tex -  w 0.9-1  h 0.5-1.2
+  detail[70]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[71]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[72]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[73]  mode VertexLit  usePrefab True  prefab BanksiaCoast_Sapling_LOD0  tex -  w 0.5-1.1  h 0.85-0.85
+  detail[74]  mode VertexLit  usePrefab True  prefab SweetWattle_LOD0  tex -  w 0.5-0.6  h 0.4-0.45
+  detail[75]  mode VertexLit  usePrefab True  prefab CoarseClubRush_LOD0  tex -  w 1-1.5  h 1.25-1.5
+  detail[76]  mode VertexLit  usePrefab True  prefab DuneGrounsel_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[77]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.25  h 0.5-1
+  detail[78]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.6-1.2  h 0.6-1
+  detail[79]  mode VertexLit  usePrefab True  prefab PinkBeardHeath_LOD0  tex -  w 0.8-1  h 0.8-0.85
+  detail[80]  mode VertexLit  usePrefab True  prefab HornyConeBush_LOD0  tex -  w 0.5-1.3  h 0.5-1.2
+  detail[81]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Bush_LOD0  tex -  w 0.8-1.1  h 0.8-0.85
+  detail[82]  mode VertexLit  usePrefab True  prefab CommonHeath_LOD0  tex -  w 0.8-0.9  h 0.8-0.8
+  detail[83]  mode VertexLit  usePrefab True  prefab SheoakDwarf_LOD0  tex -  w 0.8-1.4  h 0.8-0.9
+  detail[84]  mode VertexLit  usePrefab True  prefab GrassTree_Short_NoFlower_LOD0  tex -  w 0.8-1  h 0.7-0.8
+  detail[85]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Juvenile_LOD0  tex -  w 0.5-1.2  h 0.8-1
+  detail[86]  mode VertexLit  usePrefab True  prefab PovertyBush_Sunk_LOD0  tex -  w 0.8-1.2  h 0.8-0.9
+  detail[87]  mode VertexLit  usePrefab True  prefab LemonBottlebrush_Sunk_LOD0  tex -  w 0.8-1  h 0.8-1
+  detail[88]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[89]  mode VertexLit  usePrefab True  prefab ClusteredEverlasting_Bush_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[90]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[91]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[92]  mode VertexLit  usePrefab True  prefab CushionBush_LOD0  tex -  w 0.5-1.2  h 1-1.2
+  detail[93]  mode VertexLit  usePrefab True  prefab DuneGrounsel_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[94]  mode VertexLit  usePrefab True  prefab RoundedNoonFlower_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[95]  mode VertexLit  usePrefab True  prefab SeaberrySaltbush_LOD0  tex -  w 0.7-0.9  h 0.7-0.9
+  detail[96]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[97]  mode VertexLit  usePrefab True  prefab CushionBush_LOD0  tex -  w 0.5-1.2  h 1-1.2
+  detail[98]  mode VertexLit  usePrefab True  prefab CoastSaltBush_LOD0  tex -  w 0.8-1  h 0.6-0.8
+  detail[99]  mode VertexLit  usePrefab True  prefab ButtonGrass_LOD0  tex -  w 0.7-1.2  h 0.7-1.2
+  detail[100]  mode VertexLit  usePrefab True  prefab spinifex_LOD0  tex -  w 1-1.2  h 1-1
+  detail[101]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[102]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1.5-1.5  h 1.2-1.5
+  detail[103]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[104]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1-1.2  h 0.8-1
+  detail[105]  mode VertexLit  usePrefab True  prefab Riverbank_Roots_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[106]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+
+Terrain Terrain_South  size (1024.00, 1047.00, 1024.00)  trees 16905  treeProtos 78  detailProtos 108
+  tree[0]
+    prefab BrownStringybark_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Hero_LOD0  mesh BrownStringybark_Hero_LOD0 7700 (TVE Model) (5492v)  mats BrownStringybark_Hero_LOD0 7702 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Hero_Impostor (8v)  mats BrownStringybark_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[1]
+    prefab BrownStringybark_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_LOD0  mesh BrownStringybark_Dead_LOD0 5402 (TVE Model) (815v)  mats BrownStringybark_Dead_LOD0 5400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Impostor (8v)  mats BrownStringybark_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[2]
+    prefab BrownStringybark_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Short_LOD0  mesh BrownStringybark_Short_LOD0 4302 (TVE Model) (3552v)  mats BrownStringybark_Short_LOD0 4300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Short_Impostor (8v)  mats BrownStringybark_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[3]
+    prefab SheoakDrooping  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakDrooping_LOD0  mesh SheoakDrooping_LOD0 4201 (TVE Model) (3401v)  mats SheoakDrooping_LOD0 4200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakDrooping_Impostor (8v)  mats SheoakDrooping_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[4]
+    prefab SheoakDrooping_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakDrooping_Short_LOD0  mesh SheoakDrooping_Short_LOD0 0201 (TVE Model) (2626v)  mats SheoakDrooping_Short_LOD0 0200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakDrooping_Short_Impostor (8v)  mats SheoakDrooping_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[5]
+    prefab BanksiaCoast  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_LOD0  mesh BanksiaCoast_LOD0 DE02 (TVE Model) (3050v)  mats BanksiaCoast_LOD0 DE00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Impostor (8v)  mats BanksiaCoast_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[6]
+    prefab SouthernSassafrass  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        SouthernSassafrass_LOD0  mesh SouthernSassafrass_LOD0 3602 (TVE Model) (2769v)  mats SouthernSassafrass_LOD0 3600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SouthernSassafrass_Impostor (8v)  mats SouthernSassafrass_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[7]
+    prefab MyrtleBeech  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        MyrtleBeech_LOD0  mesh MyrtleBeech_LOD0 4802 (TVE Model) (3053v)  mats MyrtleBeech_LOD0 4800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh MyrtleBeech_Impostor (8v)  mats MyrtleBeech_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[8]
+    prefab FernMan  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernMan_LOD0  mesh FernMan_LOD0 A402 (TVE Model) (1239v)  mats FernMan_LOD0 A400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernMan_Impostor (8v)  mats FernMan_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[9]
+    prefab FernKing  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernKing_LOD0  mesh FernKing_LOD0 9801 (TVE Model) (1212v)  mats FernKing_LOD0 9800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernKing_Impostor (8v)  mats FernKing_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[10]
+    prefab BrownStringybark_Feature  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Feature_LOD0  mesh BrownStringybark_Feature_LOD0 DC02 (TVE Model) (4817v)  mats BrownStringybark_Feature DC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Feature_Impostor (8v)  mats BrownStringybark_Feature_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[11]
+    prefab BrownStringybark_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_Tall_LOD0  mesh BrownStringybark_Tall_LOD0 3802 (TVE Model) (2507v)  mats BrownStringybark_Tall_LOD0 3800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Tall_Impostor (8v)  mats BrownStringybark_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[12]
+    prefab BrownStringybark_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Bush_LOD0  mesh BrownStringybark_Bush_LOD0 5602 (TVE Model) (960v)  mats BrownStringybark_Bush 5600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Bush_Impostor (8v)  mats BrownStringybark_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[13]
+    prefab BrownStringybark  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        BrownStringybark_LOD0  mesh BrownStringybark_LOD0 3B01 (TVE Model) (3119v)  mats BrownStringybark_LOD0 3B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Impostor (8v)  mats BrownStringybark_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[14]
+    prefab BrownStringybark_Dead_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_Short_LOD0  mesh BrownStringybark_Dead_Short_LOD0 A401 (TVE Model) (829v)  mats BrownStringybark_Dead_Short A400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Short_Impostor (8v)  mats BrownStringybark_Dead_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[15]
+    prefab BushyNeedlewood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BushyNeedlewood_LOD0  mesh BushyNeedlewood_LOD0 9C01 (TVE Model) (2057v)  mats BushyNeedlewood_LOD0 9C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BushyNeedlewood_Impostor (8v)  mats BushyNeedlewood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[16]
+    prefab GrassTree  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        GrassTree_LOD0  mesh GrassTree_LOD0 1B02 (TVE Model) (1181v)  mats GrassTree_LOD0 1B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh GrassTree_Impostor (8v)  mats GrassTree_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[17]
+    prefab GrassTree_NoFlower  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        GrassTree_NoFlower_LOD0  mesh GrassTree_NoFlower_LOD0 1502 (TVE Model) (1042v)  mats GrassTree_NoFlower_LOD0 1500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh GrassTree_NoFlower_Impostor (8v)  mats GrassTree_NoFlower_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[18]
+    prefab GrassTree_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        GrassTree_Short_LOD0  mesh GrassTree_Short_LOD0 3101 (TVE Model) (905v)  mats GrassTree_Short_LOD0 3100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh GrassTree_Short_Impostor (8v)  mats GrassTree_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[19]
+    prefab GrassTree_Short_NoFlower  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        GrassTree_Short_NoFlower_LOD0  mesh GrassTree_Short_NoFlower_LOD0 B402 (TVE Model) (742v)  mats GrassTree_Short_NoFlower B400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh GrassTree_Short_NoFlower_Impostor (8v)  mats GrassTree_Short_NoFlower_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[20]
+    prefab Litter_Log_Dry  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Dry_LOD0  mesh Litter_Log_Dry_LOD0 B201 (TVE Model) (740v)  mats Litter_Log_Dry_LOD0 B200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Dry_Impostor (8v)  mats Litter_Log_Dry_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[21]
+    prefab Litter_Log_Dry_Small  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Dry_Small_LOD0  mesh Litter_Log_Dry_Small_LOD0 6A01 (TVE Model) (974v)  mats Litter_Log_Dry_Small 6A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Dry_Small_Impostor (8v)  mats Litter_Log_Dry_Small_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[22]
+    prefab TeatreeCoast_Dead_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Dead_Tall_LOD0  mesh TeatreeCoast_Dead_Tall_LOD0 9101 (TVE Model) (740v)  mats TeatreeCoast_Dead_Tall_LOD0 9100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Dead_Tall_Impostor (8v)  mats TeatreeCoast_Dead_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[23]
+    prefab HazelPomaderris  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        HazelPomaderris_LOD0  mesh HazelPomaderris_LOD0 8401 (TVE Model) (1682v)  mats HazelPomaderris_LOD0 8400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh HazelPomaderris_Impostor (8v)  mats HazelPomaderris_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[24]
+    prefab BrownStringybark_Dead_Skinny  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BrownStringybark_Dead_Skinny_LOD0  mesh BrownStringybark_Dead_Skinny_LOD0 3600 (TVE Model) (992v)  mats BrownStringybark_Dead_Skinny 3601 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BrownStringybark_Dead_Skinny_Impostor (8v)  mats BrownStringybark_Dead_Skinny_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[25]
+    prefab PricklyMoses  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        PricklyMoses_LOD0  mesh PricklyMoses_LOD0 D101 (TVE Model) (2109v)  mats PricklyMoses_LOD0 D100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh PricklyMoses_Impostor (8v)  mats PricklyMoses_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[26]
+    prefab Messmate_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Hero_LOD0  mesh Messmate_Hero_LOD0 6401 (TVE Model) (7260v)  mats Messmate_Hero_LOD0 6400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Hero_Impostor (8v)  mats Messmate_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[27]
+    prefab Messmate_OpenForest_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_OpenForest_Short_LOD0  mesh Messmate_OpenForest_Short_LOD0 B302 (TVE Model) (3905v)  mats Messmate_OpenForest_Short B300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_OpenForest_Short_Impostor (8v)  mats Messmate_OpenForest_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[28]
+    prefab Messmate_OpenForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_OpenForest_LOD0  mesh Messmate_OpenForest_LOD0 9B02 (TVE Model) (3437v)  mats Messmate_OpenForest_LOD0 9B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_OpenForest_Impostor (8v)  mats Messmate_OpenForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[29]
+    prefab Messmate_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_LOD0  mesh Messmate_Dead_LOD0 4402 (TVE Model) (821v)  mats Messmate_Dead_LOD0 4400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_Impostor (8v)  mats Messmate_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[30]
+    prefab Messmate_Dead_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_Short_LOD0  mesh Messmate_Dead_Short_LOD0 0502 (TVE Model) (825v)  mats Messmate_Dead_Short 0500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_Short_Impostor (8v)  mats Messmate_Dead_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[31]
+    prefab AustralianBlackthorn  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianBlackthorn_LOD0  mesh AustralianBlackthorn_LOD0 A701 (TVE Model) (1283v)  mats AustralianBlackthorn_LOD0 A700 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianBlackthorn_Impostor (8v)  mats AustralianBlackthorn_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[32]
+    prefab AustralianBlackthorn_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianBlackthorn_Bush_LOD0  mesh AustralianBlackthorn_Bush_LOD0 7D02 (TVE Model) (1198v)  mats AustralianBlackthorn_Bush_LOD0 7D00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianBlackthorn_Bush_Impostor (8v)  mats AustralianBlackthorn_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[33]
+    prefab MyrtleBeech_Sunk  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        MyrtleBeech_Short_LOD0  mesh MyrtleBeech_Short_LOD0 0B01 (TVE Model) (1487v)  mats MyrtleBeech_Short_LOD0 0B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh MyrtleBeech_Short_Impostor (8v)  mats MyrtleBeech_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[34]
+    prefab TreeBroomHeath  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TreeBroomHeath_LOD0  mesh TreeBroomHeath_LOD0 6C01 (TVE Model) (1704v)  mats TreeBroomHeath_LOD0 6C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TreeBroomHeath_Impostor (8v)  mats TreeBroomHeath_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[35]
+    prefab Litter_Log_Wet  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Wet_LOD0  mesh Litter_Log_Wet_LOD0 AC02 (TVE Model) (994v)  mats Litter_Log_Wet_LOD0 AC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Wet_Impostor (8v)  mats Litter_Log_Wet_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[36]
+    prefab Litter_Log_Wet_Small  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Log_Wet_Small_LOD0  mesh Litter_Log_Wet_Small_LOD0 0302 (TVE Model) (688v)  mats Litter_Log_Wet_Small 0300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Log_Wet_Small_Impostor (8v)  mats Litter_Log_Wet_Small_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[37]
+    prefab Blackwood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Blackwood_LOD0  mesh Blackwood_LOD0 5A02 (TVE Model) (2218v)  mats Blackwood_LOD0 5A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Blackwood_Impostor (8v)  mats Blackwood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[38]
+    prefab FernRough  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernRough_LOD0  mesh FernRough_LOD0 9402 (TVE Model) (1191v)  mats FernRough_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernRough_Impostor (8v)  mats FernRough_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[39]
+    prefab FernMan_Short  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        FernMan_Short_LOD0  mesh FernMan_Short_LOD0 F601 (TVE Model) (674v)  mats FernMan_Short_LOD0 F600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernMan_Short_Impostor (8v)  mats FernMan_Short_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[40]
+    prefab Litter_Stump_Wet  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.200
+        Litter_Stump_Wet_LOD0  mesh Litter_Stump_Wet_LOD0 DB01 (TVE Model) (423v)  mats Litter_Stump_Wet_LOD0 DB00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh Litter_Stump_Wet_Impostor (8v)  mats Litter_Stump_Wet_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[41]
+    prefab LillyPilly_ForestTall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        LillyPilly_ForestTall_LOD0  mesh LillyPilly_ForestTall_LOD0 7801 (TVE Model) (2176v)  mats LillyPilly_ForestTall_LOD0 7800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_ForestTall_Impostor (8v)  mats LillyPilly_ForestTall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[42]
+    prefab LillyPilly  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        LillyPilly_LOD0  mesh LillyPilly_LOD0 5B01 (TVE Model) (2747v)  mats LillyPilly_LOD0 5B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_Impostor (8v)  mats LillyPilly_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[43]
+    prefab FernSlender  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        FernSlender_LOD0  mesh FernSlender_LOD0 4C01 (TVE Model) (1186v)  mats FernSlender_LOD0 4C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh FernSlender_Impostor (8v)  mats FernSlender_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[44]
+    prefab LillyPilly_ForestTall_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        LillyPilly_ForestTall_Dead_LOD0  mesh LillyPilly_ForestTall_Dead_LOD0 6D00 (TVE Model) (1094v)  mats LillyPilly_ForestTall_Dead 6D02 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LillyPilly_ForestTall_Dead_Impostor (8v)  mats LillyPilly_ForestTall_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[45]
+    prefab AustralianMulberry  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        AustralianMulberry_LOD0  mesh AustralianMulberry_LOD0 7202 (TVE Model) (937v)  mats AustralianMulberry_LOD0 7200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh AustralianMulberry_Impostor (8v)  mats AustralianMulberry_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[46]
+    prefab Messmate_ClosedForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_ClosedForest_LOD0  mesh Messmate_ClosedForest_LOD0 6202 (TVE Model) (2334v)  mats Messmate_ClosedForest_LOD0 6200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_ClosedForest_Impostor (8v)  mats Messmate_ClosedForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[47]
+    prefab Banyalla  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Banyalla_LOD0  mesh Banyalla_LOD0 AD02 (TVE Model) (1991v)  mats Banyalla_LOD0 AD00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Banyalla_Impostor (8v)  mats Banyalla_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[48]
+    prefab Messmate_Dead_ClosedForest  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Messmate_Dead_ClosedForest_LOD0  mesh Messmate_Dead_ClosedForest_LOD0 7602 (TVE Model) (602v)  mats Messmate_Dead_ClosedForest 7600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Messmate_Dead_ClosedForest_Impostor (8v)  mats Messmate_Dead_ClosedForest_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[49]
+    prefab Stinkwood  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Stinkwood_LOD0  mesh Stinkwood_LOD0 6E02 (TVE Model) (2043v)  mats Stinkwood_LOD0 6E00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Stinkwood_Impostor (8v)  mats Stinkwood_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[50]
+    prefab BlanketLeaf  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BlanketLeaf_LOD0  mesh BlanketLeaf_LOD0 CC02 (TVE Model) (1889v)  mats BlanketLeaf_LOD0 CC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BlanketLeaf_Impostor (8v)  mats BlanketLeaf_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[51]
+    prefab HazelPomaderris_Thicket  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        HazelPomaderris_Thicket_LOD0  mesh HazelPomaderris_Thicket_LOD0 8402 (TVE Model) (2445v)  mats HazelPomaderris_Thicket 8400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh HazelPomaderris_Thicket_Impostor (8v)  mats HazelPomaderris_Thicket_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[52]
+    prefab TeatreeCoast_Hero  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Hero_LOD0  mesh TeatreeCoast_Hero_LOD0 9401 (TVE Model) (2387v)  mats TeatreeCoast_Hero_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Hero_Impostor (8v)  mats TeatreeCoast_Hero_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[53]
+    prefab TeatreeCoast  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_LOD0  mesh TeatreeCoast_LOD0 F301 (TVE Model) (3074v)  mats TeatreeCoast_LOD0 F300 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Impostor (8v)  mats TeatreeCoast_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[54]
+    prefab KangarooApple  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        KangarooApple_LOD0  mesh KangarooApple_LOD0 8B01 (TVE Model) (2405v)  mats KangarooApple_LOD0 8B00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh KangarooApple_Impostor (8v)  mats KangarooApple_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[55]
+    prefab CoastBeardHeath_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        CoastBeardHeath_Tall_LOD0  mesh CoastBeardHeath_Tall_LOD0 1101 (TVE Model) (2081v)  mats CoastBeardHeath_Tall_LOD0 1100 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh CoastBeardHeath_Impostor (8v)  mats CoastBeardHeath_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[56]
+    prefab TeatreeCoast_Solo  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Solo_LOD0  mesh TeatreeCoast_Solo_LOD0 5201 (TVE Model) (993v)  mats TeatreeCoast_Solo_LOD0 5200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Solo_Impostor (8v)  mats TeatreeCoast_Solo_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[57]
+    prefab TeatreeCoast_Wall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Wall_LOD0  mesh TeatreeCoast_Wall_LOD0 D801 (TVE Model) (376v)  mats TeatreeCoast_Wall D800 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Wall_Impostor (8v)  mats TeatreeCoast_Wall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[58]
+    prefab Paperbark_Thicket  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Paperbark_Thicket_LOD0  mesh Paperbark_Thicket_LOD0 1401 (TVE Model) (3303v)  mats Paperbark_Thicket_LOD0 1400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Thicket_Impostor (8v)  mats Paperbark_Thicket_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[59]
+    prefab Paperbark_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        Paperbark_Bush_LOD0  mesh Paperbark_Bush_LOD0 0F01 (TVE Model) (1117v)  mats Paperbark_Bush_LOD0 0F00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Bush_Impostor (8v)  mats Paperbark_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[60]
+    prefab TreeEverlasting  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TreeEverlasting_LOD0  mesh TreeEverlasting_LOD0 BC01 (TVE Model) (3268v)  mats TreeEverlasting_LOD0 BC00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TreeEverlasting_Impostor (8v)  mats TreeEverlasting_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[61]
+    prefab Paperbark  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.250
+        Paperbark_LOD0  mesh Paperbark_LOD0 0602 (TVE Model) (1883v)  mats Paperbark_LOD0 0600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Paperbark_Impostor (8v)  mats Paperbark_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[62]
+    prefab ButtonGrass  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        ButtonGrass_LOD0  mesh ButtonGrass_LOD0 D602 (TVE Model) (898v)  mats ButtonGrass_LOD0 D600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh ButtonGrass_Impostor (8v)  mats ButtonGrass_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[63]
+    prefab CoastSaltbush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CoastSaltBush_LOD0  mesh CoastSaltBush_LOD0 0C01 (TVE Model) (1766v)  mats CoastSaltBush_LOD0 0C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CoastSaltbush_Impostor (8v)  mats CoastSaltbush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[64]
+    prefab SeaberrySaltbush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        SeaberrySaltbush_LOD0  mesh SeaberrySaltbush_LOD0 2500 (TVE Model) (2260v)  mats SeaberrySaltbush_LOD0 2501 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh SeaberrySaltbush_Impostor (8v)  mats SeaberrySaltbush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[65]
+    prefab SaltMarshRush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        SaltMarshRush_LOD0  mesh SaltMarshRush_LOD0 1001 (TVE Model) (2981v)  mats SaltMarshRush_LOD0 1000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh SaltMarshRush_Impostor (8v)  mats SaltMarshRush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[66]
+    prefab BanksiaCoast_Senior  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Senior_LOD0  mesh BanksiaCoast_Senior_LOD0 7002 (TVE Model) (1555v)  mats BanksiaCoast_Senior 7000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Senior_Impostor (8v)  mats BanksiaCoast_Senior_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[67]
+    prefab BanksiaCoast_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Dead_LOD0  mesh BanksiaCoast_Dead_LOD0 4202 (TVE Model) (1120v)  mats BanksiaCoast_Dead_LOD0 4200 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Dead_Impostor (8v)  mats BanksiaCoast_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[68]
+    prefab BanksiaCoast_Tall  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Tall_LOD0  mesh BanksiaCoast_Tall_LOD0 9401 (TVE Model) (1957v)  mats BanksiaCoast_Tall_LOD0 9400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh Banksia_Tall_Impostor (8v)  mats Banksia_Tall_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[69]
+    prefab BanksiaCoast_Juvenile  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        BanksiaCoast_Juvenile_LOD0  mesh BanksiaCoast_Juvenile_LOD0 0001 (TVE Model) (474v)  mats BanksiaCoast_Juvenile_LOD0 0000 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh BanksiaCoast_Juvenile_Impostor (8v)  mats BanksiaCoast_Juvenile_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[70]
+    prefab SheoakSwamp  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        SheoakSwamp_LOD0  mesh SheoakSwamp_LOD0 4401 (TVE Model) (661v)  mats SheoakSwamp_LOD0 4400 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh SheoakSwamp_Impostor (8v)  mats SheoakSwamp_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[71]
+    prefab TeatreeCoast_Dead  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        TeatreeCoast_Dead_LOD0  mesh TeatreeCoast_Dead_LOD0 8A01 (TVE Model) (1354v)  mats TeatreeCoast_Dead_LOD0 8A00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh TeatreeCoast_Dead_Impostor (8v)  mats TeatreeCoast_Dead_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[72]
+    prefab PovertyBush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        PovertyBush_LOD0  mesh PovertyBush_LOD0 6C01 (TVE Model) (2300v)  mats PovertyBush_LOD0 6C00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh PovertyBush_Impostor (8v)  mats PovertyBush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[73]
+    prefab LemonBottlebrush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.180
+        LemonBottlebrush_LOD0  mesh LemonBottlebrush_LOD0 DA02 (TVE Model) (1980v)  mats LemonBottlebrush_LOD0 DA00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.040
+        Impostor  mesh LemonBottlebrush_Impostor (8v)  mats LemonBottlebrush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[74]
+    prefab CorreaWhite_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CorreaWhite_Bush_LOD0  mesh CorreaWhite_Bush_LOD0 4501 (TVE Model) (1819v)  mats CorreaWhite_Bush_LOD0 4500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CorreaWhite_Bush_Impostor (8v)  mats CorreaWhite_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[75]
+    prefab CoastalWattle_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CoastalWattle_Bush_LOD0  mesh CoastalWattle_Bush_LOD0 0E01 (TVE Model) (2220v)  mats CoastalWattle_Bush_LOD0 0E00 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CoastalWattle_Bush_Impostor (8v)  mats CoastalWattle_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[76]
+    prefab CommonBoobialla  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        CommonBoobialla_LOD0  mesh CommonBoobialla_LOD0 C601 (TVE Model) (2010v)  mats CommonBoobialla_LOD0 C600 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh CommonBoobialla_Impostor (8v)  mats CommonBoobialla_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  tree[77]
+    prefab TeatreeCoast_Bush  scale (1.00, 1.00, 1.00)
+      LOD0  transition 0.150
+        TeatreeCoast_Bush_LOD0  mesh TeatreeCoast_Bush_LOD0 C501 (TVE Model) (685v)  mats TeatreeCoast_Bush_LOD0 C500 (TVE Material)[BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit, inst True] 
+      LOD1  transition 0.060
+        Impostor  mesh TeatreeCoast_Bush_Impostor (8v)  mats TeatreeCoast_Bush_Impostor[BOXOPHOBIC/The Visual Engine/Impostors/House Plant Octa Standard Lit w DepthNormalBend, inst True] 
+  detail[0]  mode VertexLit  usePrefab True  prefab SeaNymph_LOD0  tex -  w 0.8-1.8  h 0.8-1.2
+  detail[1]  mode VertexLit  usePrefab True  prefab FernHardWater_LOD0  tex -  w 0.9-1.3  h 1-1.5
+  detail[2]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1-1.2  h 1-1.2
+  detail[3]  mode VertexLit  usePrefab True  prefab DustyMiller_LOD0  tex -  w 0.8-1.5  h 0.6-1.1
+  detail[4]  mode VertexLit  usePrefab True  prefab AppleBerry_Bush_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[5]  mode VertexLit  usePrefab True  prefab SweetWattle_LOD0  tex -  w 0.5-1  h 0.5-0.65
+  detail[6]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[7]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Dry_LOD0  tex -  w 0.8-1.5  h 0.8-1
+  detail[8]  mode VertexLit  usePrefab True  prefab GrassTree_Short_NoFlower_LOD0  tex -  w 0.8-1  h 0.8-1
+  detail[9]  mode VertexLit  usePrefab True  prefab GrassKangaroo_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[10]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.6-1.2  h 0.6-1.2
+  detail[11]  mode VertexLit  usePrefab True  prefab TasselRopeRush_LOD0  tex -  w 1-2  h 0.8-0.8
+  detail[12]  mode VertexLit  usePrefab True  prefab BroomSpurge_LOD0  tex -  w 0.7-1  h 0.7-1
+  detail[13]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+  detail[14]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[15]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Bush_LOD0  tex -  w 0.8-0.9  h 0.8-0.9
+  detail[16]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Dead_LOD0  tex -  w 0.5-1  h 0.5-1
+  detail[17]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Dead_LOD0  tex -  w 0.5-1  h 0.5-1
+  detail[18]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+  detail[19]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1.2-1.2  h 1.4-1.5
+  detail[20]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 0.6-0.8  h 0.6-0.8
+  detail[21]  mode VertexLit  usePrefab True  prefab HazelPomaderris_Sapling_LOD0  tex -  w 0.6-1.2  h 0.5-0.9
+  detail[22]  mode VertexLit  usePrefab True  prefab Bracken_LOD0  tex -  w 0.5-1  h 0.5-1.2
+  detail[23]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[24]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[25]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[26]  mode VertexLit  usePrefab True  prefab CommonHeath_LOD0  tex -  w 0.8-0.9  h 0.8-0.9
+  detail[27]  mode VertexLit  usePrefab True  prefab BroomSpurge_LOD0  tex -  w 0.9-1.4  h 1-1.3
+  detail[28]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Dry_LOD0  tex -  w 0.8-1.5  h 0.8-1
+  detail[29]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[30]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[31]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[32]  mode VertexLit  usePrefab True  prefab MyrtleBeech_Roots_LOD0  tex -  w 0.3-0.6  h 0.3-0.5
+  detail[33]  mode VertexLit  usePrefab True  prefab DaisyBushSnowy_Bush_LOD0  tex -  w 0.8-1  h 0.6-0.8
+  detail[34]  mode VertexLit  usePrefab True  prefab Sedge_Cool_LOD0  tex -  w 1.2-1.2  h 1.4-1.5
+  detail[35]  mode VertexLit  usePrefab True  prefab MountainPepper_LOD0  tex -  w 0.6-1  h 0.6-1
+  detail[36]  mode VertexLit  usePrefab True  prefab TasmanianFlaxLily_LOD0  tex -  w 0.6-0.9  h 0.6-0.9
+  detail[37]  mode VertexLit  usePrefab True  prefab Litter_Branches_Wet_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[38]  mode VertexLit  usePrefab True  prefab ShadeNettle_LOD0  tex -  w 1-2  h 1-2
+  detail[39]  mode VertexLit  usePrefab True  prefab Litter_Fern_LOD0  tex -  w 0.6-1  h 0.6-1
+  detail[40]  mode VertexLit  usePrefab True  prefab FernRayWater_LOD0  tex -  w 0.8-1.5  h 1-1.8
+  detail[41]  mode VertexLit  usePrefab True  prefab FernKing_Short_LOD0  tex -  w 0.5-0.8  h 0.5-1.2
+  detail[42]  mode VertexLit  usePrefab True  prefab FernHardWater_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[43]  mode VertexLit  usePrefab True  prefab FernKing_Short_LOD0  tex -  w 0.5-0.8  h 0.5-1.2
+  detail[44]  mode VertexLit  usePrefab True  prefab Litter_Branches_Wet_LOD0  tex -  w 0.5-0.75  h 0.5-0.8
+  detail[45]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0_WarmRainforest  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[46]  mode VertexLit  usePrefab True  prefab FernRayWater_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[47]  mode VertexLit  usePrefab True  prefab FernFishboneWater_LOD0  tex -  w 0.9-1.2  h 1-1.1
+  detail[48]  mode VertexLit  usePrefab True  prefab FernFishboneWater_Small_LOD0  tex -  w 0.7-1  h 0.6-0.7
+  detail[49]  mode VertexLit  usePrefab True  prefab PricklyCurrantBush_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[50]  mode VertexLit  usePrefab True  prefab GrassForestWire_LOD0  tex -  w 0.5-1.2  h 0.5-0.8
+  detail[51]  mode VertexLit  usePrefab True  prefab NativeIvy_LOD0  tex -  w 1-1.5  h 1-1.5
+  detail[52]  mode VertexLit  usePrefab True  prefab HopGoodenia_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[53]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[54]  mode VertexLit  usePrefab True  prefab KidneyWeed_LOD0  tex -  w 1-2  h 1-2
+  detail[55]  mode VertexLit  usePrefab True  prefab Litter_Leaves_Wet_LOD0  tex -  w 0.8-1.2  h 0.9-1.1
+  detail[56]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Roots_LOD0  tex -  w 0.6-1.2  h 0.8-1
+  detail[57]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[58]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Juvenile_LOD0  tex -  w 0.5-1.2  h 0.5-0.9
+  detail[59]  mode VertexLit  usePrefab True  prefab SmallLeavedClematis_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[60]  mode VertexLit  usePrefab True  prefab CoastBeardHeath_LOD0  tex -  w 0.5-1  h 0.5-0.7
+  detail[61]  mode VertexLit  usePrefab True  prefab BlueTussockGrass_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[62]  mode VertexLit  usePrefab True  prefab CorreaWhite_Bush_LOD0  tex -  w 0.5-1.2  h 0.5-1
+  detail[63]  mode VertexLit  usePrefab True  prefab Paperbark_Roots_LOD0  tex -  w 0.6-1  h 0.5-0.9
+  detail[64]  mode VertexLit  usePrefab True  prefab RiverRose_LOD0  tex -  w 0.7-0.9  h 0.7-0.85
+  detail[65]  mode VertexLit  usePrefab True  prefab Paperbark_Juvenile_LOD0  tex -  w 0.6-1  h 0.6-0.8
+  detail[66]  mode VertexLit  usePrefab True  prefab CreepingBrookweed_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[67]  mode VertexLit  usePrefab True  prefab FernScramblingCoral_LOD0  tex -  w 1-1.2  h 1-1.6
+  detail[68]  mode VertexLit  usePrefab True  prefab Riverbank_Roots_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[69]  mode VertexLit  usePrefab True  prefab CommonReed_Dry_LOD0  tex -  w 0.9-1  h 0.5-1.2
+  detail[70]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[71]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[72]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[73]  mode VertexLit  usePrefab True  prefab BanksiaCoast_Sapling_LOD0  tex -  w 0.5-1.1  h 0.85-0.85
+  detail[74]  mode VertexLit  usePrefab True  prefab SweetWattle_LOD0  tex -  w 0.5-0.6  h 0.4-0.45
+  detail[75]  mode VertexLit  usePrefab True  prefab CoarseClubRush_LOD0  tex -  w 1-1.5  h 1.25-1.5
+  detail[76]  mode VertexLit  usePrefab True  prefab DuneGrounsel_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[77]  mode VertexLit  usePrefab True  prefab GrassWeeping_LOD0  tex -  w 0.5-1.25  h 0.5-1
+  detail[78]  mode VertexLit  usePrefab True  prefab Litter_Scrub_LOD0  tex -  w 0.6-1.2  h 0.6-1
+  detail[79]  mode VertexLit  usePrefab True  prefab PinkBeardHeath_LOD0  tex -  w 0.8-1  h 0.8-0.85
+  detail[80]  mode VertexLit  usePrefab True  prefab HornyConeBush_LOD0  tex -  w 0.5-1.3  h 0.5-1.2
+  detail[81]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Bush_LOD0  tex -  w 0.8-1.1  h 0.8-0.85
+  detail[82]  mode VertexLit  usePrefab True  prefab CommonHeath_LOD0  tex -  w 0.8-0.9  h 0.8-0.8
+  detail[83]  mode VertexLit  usePrefab True  prefab SheoakDwarf_LOD0  tex -  w 0.8-1.4  h 0.8-0.9
+  detail[84]  mode VertexLit  usePrefab True  prefab GrassTree_Short_NoFlower_LOD0  tex -  w 0.8-1  h 0.7-0.8
+  detail[85]  mode VertexLit  usePrefab True  prefab TeatreeCoast_Juvenile_LOD0  tex -  w 0.5-1.2  h 0.8-1
+  detail[86]  mode VertexLit  usePrefab True  prefab PovertyBush_Sunk_LOD0  tex -  w 0.8-1.2  h 0.8-0.9
+  detail[87]  mode VertexLit  usePrefab True  prefab LemonBottlebrush_Sunk_LOD0  tex -  w 0.8-1  h 0.8-1
+  detail[88]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[89]  mode VertexLit  usePrefab True  prefab ClusteredEverlasting_Bush_LOD0  tex -  w 0.7-1  h 0.7-0.9
+  detail[90]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[91]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1-1.5  h 1-1.2
+  detail[92]  mode VertexLit  usePrefab True  prefab CushionBush_LOD0  tex -  w 0.5-1.2  h 1-1.2
+  detail[93]  mode VertexLit  usePrefab True  prefab DuneGrounsel_LOD0  tex -  w 0.5-1.2  h 0.5-1.2
+  detail[94]  mode VertexLit  usePrefab True  prefab RoundedNoonFlower_LOD0  tex -  w 0.5-1.5  h 0.5-1.5
+  detail[95]  mode VertexLit  usePrefab True  prefab SeaberrySaltbush_LOD0  tex -  w 0.7-0.9  h 0.7-0.9
+  detail[96]  mode VertexLit  usePrefab True  prefab Litter_Branches_Dead_LOD0  tex -  w 0.5-0.75  h 0.5-1
+  detail[97]  mode VertexLit  usePrefab True  prefab CushionBush_LOD0  tex -  w 0.5-1.2  h 1-1.2
+  detail[98]  mode VertexLit  usePrefab True  prefab CoastSaltBush_LOD0  tex -  w 0.8-1  h 0.6-0.8
+  detail[99]  mode VertexLit  usePrefab True  prefab ButtonGrass_LOD0  tex -  w 0.7-1.2  h 0.7-1.2
+  detail[100]  mode VertexLit  usePrefab True  prefab spinifex_LOD0  tex -  w 1-1.2  h 1-1
+  detail[101]  mode VertexLit  usePrefab True  prefab CoastalSpearGrass_LOD0  tex -  w 0.8-1.2  h 0.8-1.2
+  detail[102]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1.5-1.5  h 1.2-1.5
+  detail[103]  mode VertexLit  usePrefab True  prefab Sedge_Riverbank_LOD0  tex -  w 0.5-0.8  h 0.5-0.8
+  detail[104]  mode VertexLit  usePrefab True  prefab sedge_LOD0  tex -  w 1-1.2  h 0.8-1
+  detail[105]  mode VertexLit  usePrefab True  prefab Riverbank_Roots_LOD0  tex -  w 0.7-0.9  h 0.7-0.8
+  detail[106]  mode VertexLit  usePrefab True  prefab Litter_RockPebbles_LOD0  tex -  w 0.3-0.4  h 0.3-0.3
+  detail[107]  mode VertexLit  usePrefab True  prefab Glasswort_LOD0  tex -  w 1-1.5  h 1-1.2
+(remaining terrains skipped)
+
+=== B) VEGETATION-SHADER RENDERERS IN SCENE: 11 total, 2 distinct ===
+  x9  Litter_Log_Wet_Large_LOD0 A602 (TVE Model) 5300 (TVE Model)  |  Litter_Log_Wet_Large A601 (TVE Material) 8B00 (TVE Material)
+      verts 1097 subs 1 readable False  instancing True  shader BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit  scale (1.00, 1.00, 1.00)  inLODGroup True
+      e.g. World-Landscaping/Logs/Sealers/Litter_Log_Wet_Large_Handplaced (1)/Litter_Log_Wet_Large/Litter_Log_Wet_Large_LOD0
+  x2  Litter_Log_Wet_LOD0 AC01 (TVE Model)  |  Litter_Log_Wet_LOD0 AC00 (TVE Material)
+      verts 994 subs 1 readable False  instancing True  shader BOXOPHOBIC/The Visual Engine/Geometry/House Standard Lit  scale (1.91, 1.91, 1.91)  inLODGroup True
+      e.g. World-Landscaping/Logs/Sealers/Litter_Log_Wet_Handplaced/Litter_Log_Wet/Litter_Log_Wet_LOD0
+
+=== C) ROCK RENDERERS IN SCENE: 25335 total, 42 distinct ===
+  x990  rock-Boulder01_LOD2  |  Rock-CombinedBoulders
+      verts 276 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.24, 1.24, 1.24)  inLODGroup True
+      e.g. World-Scatter/North of the wall/rock-boulder01 (8)/rock-boulder01/rock-Boulder01_LOD2
+  x295  rock-cliff01_LOD2  |  Rock-Cliff01
+      verts 519 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.75, 2.75, 2.75)  inLODGroup True
+      e.g. World-HandPlaced/_Granite Outcrop South/SouthPeak/rock-cliff01 (25)/rock-cliff01/rock-cliff01_LOD2
+  x1057  rock-wedge_LOD0  |  Rock-Scatter
+      verts 710 subs 1 readable True  instancing False  shader househouse/hhRock  scale (3.91, 3.91, 3.91)  inLODGroup True
+      e.g. World-HandPlaced/_Unstamped/IntroValley/rock-wedge (1)/rock-wedge/rock-wedge_LOD0
+  x1386  rock-dome_LOD0  |  Rock-Scatter
+      verts 487 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.46, 2.46, 2.46)  inLODGroup True
+      e.g. World-Scatter/Airfield/rock-dome (32)/rock-dome/rock-dome_LOD0
+  x1823  rock-scatter_LOD3  |  Rock-Scatter
+      verts 962 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.00, 1.00, 1.00)  inLODGroup True
+      e.g. Rivers/Hot Zone/Dry Tributaries/RiverRocks/rock-scatterFILLER/rock-scatter/rock-scatter_LOD3
+  x1049  rock-pointy_LOD0  |  Rock-Scatter
+      verts 605 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.89, 2.89, 2.89)  inLODGroup True
+      e.g. World-Scatter/Airfield/rock-pointy/rock-pointy/rock-pointy_LOD0
+  x743  rock-knuckles_LOD0  |  Rock-Knuckles
+      verts 3540 subs 1 readable True  instancing False  shader househouse/hhRock  scale (23.62, 23.62, 23.62)  inLODGroup True
+      e.g. World-HandPlaced/_Rainforest South/Yellow Diffuser Ridge/rock-knuckles (2)/rock-knuckles/rock-knuckles_LOD0
+  x904  rock-pillar_LOD0  |  Rock-Scatter
+      verts 500 subs 1 readable True  instancing False  shader househouse/hhRock  scale (14.99, 14.99, 14.99)  inLODGroup True
+      e.g. World-HandPlaced/_Tall Forest South/Hot Zone Wet Euc/rock-pillar (5)/rock-pillar/rock-pillar_LOD0
+  x743  rock-knuckles_LOD1  |  Rock-Knuckles
+      verts 1194 subs 1 readable True  instancing False  shader househouse/hhRock  scale (7.59, 7.59, 7.59)  inLODGroup True
+      e.g. World-HandPlaced/_Wet Open Forest North/VerekerSouth/rock-knuckles (15)/rock-knuckles/rock-knuckles_LOD1
+  x2045  rock-scatter_LOD1  |  Rock-Scatter
+      verts 6354 subs 1 readable True  instancing False  shader househouse/hhRock  scale (5.31, 5.31, 5.31)  inLODGroup True
+      e.g. World-HandPlaced/_NorthofWall/North of wall scatter/rock-scatter (6)/rock-scatter/rock-scatter_LOD1
+  x990  rock-Boulder01_LOD0  |  Rock-CombinedBoulders
+      verts 1730 subs 1 readable True  instancing False  shader househouse/hhRock  scale (0.61, 0.61, 0.61)  inLODGroup True
+      e.g. World-Scatter/SportsValley/rock-boulder01 (11)/rock-boulder01/rock-Boulder01_LOD0
+  x1049  rock-pointy_LOD1  |  Rock-Scatter
+      verts 92 subs 1 readable True  instancing False  shader househouse/hhRock  scale (4.49, 4.49, 4.49)  inLODGroup True
+      e.g. World-Scatter/Far north/rock-pointy (2)/rock-pointy/rock-pointy_LOD1
+  x2045  rock-scatter_LOD2  |  Rock-Scatter
+      verts 3470 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.10, 1.10, 1.10)  inLODGroup True
+      e.g. Rivers/Hot Zone/Dry Tributaries/RiverRocks/rock-scatterFILLER/rock-scatter/rock-scatter_LOD2
+  x743  rock-knuckles_LOD2  |  Rock-Knuckles
+      verts 517 subs 1 readable True  instancing False  shader househouse/hhRock  scale (17.93, 17.93, 17.93)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/Yellow Tower Ridge/rock-knuckles (15)/rock-knuckles/rock-knuckles_LOD2
+  x1206  rock-bullet_LOD2  |  Rock-Scatter
+      verts 83 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.39, 2.39, 2.39)  inLODGroup True
+      e.g. World-Scatter/SouthernValley/rock-bullet (18)/rock-bullet/rock-bullet_LOD2
+  x1057  rock-wedge_LOD1  |  Rock-Scatter
+      verts 112 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.39, 2.39, 2.39)  inLODGroup True
+      e.g. World-Scatter/Big Drift/rock-wedge (243)/rock-wedge/rock-wedge_LOD1
+  x904  rock-pillar_LOD1  |  Rock-Scatter
+      verts 102 subs 1 readable True  instancing False  shader househouse/hhRock  scale (12.87, 12.87, 12.87)  inLODGroup True
+      e.g. World-HandPlaced/_Tall Forest South/Hot Zone Wet Euc/rock-pillar (23)/rock-pillar/rock-pillar_LOD1
+  x1206  rock-bullet_LOD1  |  Rock-Scatter
+      verts 260 subs 1 readable True  instancing False  shader househouse/hhRock  scale (3.16, 3.16, 3.16)  inLODGroup True
+      e.g. World-HandPlaced/_Unstamped/Sports Rock Pile/rock-bullet (2)/rock-bullet/rock-bullet_LOD1
+  x41  rock-cliff01Tunnel_LOD2  |  Rock-Cliff01
+      verts 297 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.00, 1.00, 1.00)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest South/Green Tower Ridge/rock-cliff01Tunnel (2)/rock-cliff01Tunnel/rock-cliff01Tunnel_LOD2
+  x1386  rock-dome_LOD1  |  Rock-Scatter
+      verts 68 subs 1 readable True  instancing False  shader househouse/hhRock  scale (4.23, 4.23, 4.23)  inLODGroup True
+      e.g. World-Scatter/North of the wall/rock-dome (36)/rock-dome/rock-dome_LOD1
+  x1206  rock-bullet_LOD0  |  Rock-Scatter
+      verts 592 subs 1 readable True  instancing False  shader househouse/hhRock  scale (3.05, 3.05, 3.05)  inLODGroup True
+      e.g. World-Scatter/Airfield/rock-bullet (14)/rock-bullet/rock-bullet_LOD0
+  x990  rock-Boulder01_LOD1  |  Rock-CombinedBoulders
+      verts 910 subs 1 readable True  instancing False  shader househouse/hhRock  scale (0.77, 0.77, 0.77)  inLODGroup True
+      e.g. World-Scatter/Blue Tower Ridge/rock-boulder01 (3)/rock-boulder01/rock-Boulder01_LOD1
+  x41  rock-cliff01Tunnel_LOD1  |  Rock-Cliff01
+      verts 1148 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.34, 1.34, 1.34)  inLODGroup True
+      e.g. World-HandPlaced/_Rainforest South/Green Tower Ridge/rock-cliff01Tunnel (6)/rock-cliff01Tunnel/rock-cliff01Tunnel_LOD1
+  x295  rock-cliff01_LOD0  |  Rock-Cliff01
+      verts 3728 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.62, 1.62, 1.62)  inLODGroup True
+      e.g. World-HandPlaced/_Unstamped/PeakCentre/rock-cliff01 (1)/rock-cliff01/rock-cliff01_LOD0
+  x295  rock-cliff01_LOD1  |  Rock-Cliff01
+      verts 1802 subs 1 readable True  instancing False  shader househouse/hhRock  scale (3.11, 3.11, 3.11)  inLODGroup True
+      e.g. World-HandPlaced/_Coastal North/Labyrinth Headlands/rock-cliff01 (39)/rock-cliff01/rock-cliff01_LOD1
+  x49  rock-quadrasphere_LOD0  |  Rock-CombinedBoulders
+      verts 814 subs 1 readable True  instancing False  shader househouse/hhRock  scale (14.21, 14.21, 14.21)  inLODGroup True
+      e.g. World-HandPlaced/_Granite Outcrop South/Opt Tele Ridge/rock-quadrasphere/rock-quadrasphere/rock-quadrasphere_LOD0
+  x222  rock-scatter_LOD0  |  Rock-Scatter
+      verts 11864 subs 1 readable True  instancing False  shader househouse/hhRock  scale (6.81, 6.81, 6.81)  inLODGroup True
+      e.g. World-HandPlaced/_Unstamped/Yellow Tower/rock-scatterBIG (16)/rock-scatter/rock-scatter_LOD0
+  x105  rock-slab_LOD1  |  Rock-Scatter
+      verts 111 subs 1 readable True  instancing False  shader househouse/hhRock  scale (7.49, 7.49, 7.49)  inLODGroup True
+      e.g. World-HandPlaced/_Coastal North/Intro South/rock-slab (1)/rock-slab/rock-slab_LOD1
+  x41  rock-cliff01Tunnel_LOD0  |  Rock-Cliff01
+      verts 3098 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.70, 1.70, 1.70)  inLODGroup True
+      e.g. World-HandPlaced/_Coastal South/SouthRidge/rock-cliff01Tunnel/rock-cliff01Tunnel/rock-cliff01Tunnel_LOD0
+  x49  rock-quadrasphere_LOD2  |  Rock-CombinedBoulders
+      verts 117 subs 1 readable True  instancing False  shader househouse/hhRock  scale (12.75, 12.75, 12.75)  inLODGroup True
+      e.g. World-HandPlaced/_Coastal South/EastCoastHeadlands/Blue tower ridge/rock-quadrasphere/rock-quadrasphere/rock-quadrasphere_LOD2
+  x19  rock-cliff01-Cutaway1_LOD2  |  Rock-Cliff01
+      verts 300 subs 1 readable True  instancing False  shader househouse/hhRock  scale (2.66, 2.66, 2.66)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/Intro Ridge North/rock-cliff01 Cutaway1 (6)/rock-cliff01/rock-cliff01-Cutaway1_LOD2
+  x19  rock-cliff01-Cutaway1_LOD1  |  Rock-Cliff01
+      verts 697 subs 1 readable True  instancing False  shader househouse/hhRock  scale (3.57, 3.57, 3.57)  inLODGroup True
+      e.g. World-HandPlaced/_Unstamped/PeakSW/rock-cliff01 Cutaway1/rock-cliff01/rock-cliff01-Cutaway1_LOD1
+  x45  rock_whale_LOD2  |  Rock-CombinedBoulders
+      verts 159 subs 1 readable True  instancing False  shader househouse/hhRock  scale (11.14, 11.14, 11.14)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/KUP Ridge/rock-whale/rock-whale/rock_whale_LOD2
+  x105  rock-slab_LOD0  |  Rock-Scatter
+      verts 631 subs 1 readable True  instancing False  shader househouse/hhRock  scale (16.97, 16.97, 16.97)  inLODGroup True
+      e.g. World-HandPlaced/_Rainforest South/Green Tower Ridge/rock-slab/rock-slab/rock-slab_LOD0
+  x49  rock-quadrasphere_LOD1  |  Rock-CombinedBoulders
+      verts 239 subs 1 readable True  instancing False  shader househouse/hhRock  scale (9.85, 9.85, 9.85)  inLODGroup True
+      e.g. World-HandPlaced/_Granite Outcrop South/Opt Tele Ridge/rock-quadrasphere (8)/rock-quadrasphere/rock-quadrasphere_LOD1
+  x11  rock-cliff01-Cutaway_LOD0  |  Rock-Cliff01
+      verts 1465 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.83, 1.83, 1.83)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/Map Room/rock-cliff01 Cutaway (1)/rock-cliff01/rock-cliff01-Cutaway_LOD0
+  x45  rock_whale_LOD0  |  Rock-CombinedBoulders
+      verts 1762 subs 1 readable True  instancing False  shader househouse/hhRock  scale (10.88, 10.88, 10.88)  inLODGroup True
+      e.g. World-HandPlaced/_Wet Open Forest North/Black Tower Ridge/rock-whale/rock-whale/rock_whale_LOD0
+  x45  rock_whale_LOD1  |  Rock-CombinedBoulders
+      verts 833 subs 1 readable True  instancing False  shader househouse/hhRock  scale (11.14, 11.14, 11.14)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/KUP Ridge/rock-whale/rock-whale/rock_whale_LOD1
+  x11  rock-cliff01-Cutaway_LOD1  |  Rock-Cliff01
+      verts 853 subs 1 readable True  instancing False  shader househouse/hhRock  scale (6.12, 6.12, 6.12)  inLODGroup True
+      e.g. World-HandPlaced/_Wet Open Forest South/PeakSW/rock-cliff01 Cutaway/rock-cliff01/rock-cliff01-Cutaway_LOD1
+  x1  QuadMesh  |  Element
+      verts 4 subs 1 readable False  instancing False  shader BOXOPHOBIC/The Visual Engine/Elements/Flow Wind Intensity  scale (116.51, 46.46, 26.40)  inLODGroup False
+      e.g. The Visual Engine/WindZones/CullingLocationPrideRock/Element_WindPrideRock
+  x11  rock-cliff01-Cutaway_LOD2  |  Rock-Cliff01
+      verts 338 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.29, 1.29, 1.29)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/Map Room/rock-cliff01 Cutaway/rock-cliff01/rock-cliff01-Cutaway_LOD2
+  x19  rock-cliff01-Cutaway1_LOD0  |  Rock-Cliff01
+      verts 1171 subs 1 readable True  instancing False  shader househouse/hhRock  scale (1.28, 1.28, 1.28)  inLODGroup True
+      e.g. World-HandPlaced/_Dry Open Forest North/Intro Ridge North/rock-cliff01 Cutaway1 (4)/rock-cliff01/rock-cliff01-Cutaway1_LOD0
