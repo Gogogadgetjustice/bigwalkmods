@@ -1,5 +1,7 @@
 unity 6000.3.17f1
 
+SecondGoodbye PlayerCount2 has a “VoidRoom” at about 728, -25, 340. 
+
 === SHADERS (157) ===
 BOXOPHOBIC/The Visual Engine/Effects/CustomRT Drips
 BOXOPHOBIC/The Visual Engine/Effects/CustomRT Drops
